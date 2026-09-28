@@ -156,7 +156,7 @@ export function BuilderPreview({ demo }: { demo: { name: string; items: BuildIte
               {demo && STEP_ORDER.filter((s) => demo.items[s]).map((s) => {
                 const l = demo.items[s]!;
                 return (
-                  <li key={s} className="flex items-center gap-3 py-2 sm:border-b sm:border-line">
+                  <li key={s} className="flex min-w-0 items-center gap-3 py-2 sm:border-b sm:border-line">
                     <span className="grid h-10 w-10 shrink-0 place-items-center rounded-lg bg-surface-2 p-1">
                       <ProductArt category={l.product.categorySlug} brand={l.product.brand} specs={l.product.specs} />
                     </span>
