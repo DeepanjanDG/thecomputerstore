@@ -31,17 +31,23 @@ export const getSetting = <K extends SettingKey>(key: K) =>
 export const getEngineConfig = unstable_cache(
   async (): Promise<EngineConfig> => {
     const rules = defaultRuleConfig();
-    const rows = await db.compatibilityRule.findMany();
-    for (const r of rows) {
-      if (!rules[r.id]) continue;
-      rules[r.id] = {
-        enabled: r.enabled,
-        severity: (r.severity as "error" | "warning" | "info" | null) ?? null,
-        params: { ...rules[r.id].params, ...((r.params as Record<string, unknown>) ?? {}) },
-      };
+    try {
+      const rows = await db.compatibilityRule.findMany();
+      for (const r of rows) {
+        if (!rules[r.id]) continue;
+        rules[r.id] = {
+          enabled: r.enabled,
+          severity: (r.severity as "error" | "warning" | "info" | null) ?? null,
+          params: { ...rules[r.id].params, ...((r.params as Record<string, unknown>) ?? {}) },
+        };
+      }
+      const [power, scoring] = await Promise.all([readSetting("power"), readSetting("scoring")]);
+      return { rules, power: power as PowerConfig, scoring: scoring as ScoringConfig };
+    } catch {
+      // The root layout renders on every route, including build-time prerendering of
+      // Next.js's auto-generated /_not-found page — a DB outage here must not fail the build.
+      return { rules, power: DEFAULTS.power, scoring: DEFAULTS.scoring };
     }
-    const [power, scoring] = await Promise.all([readSetting("power"), readSetting("scoring")]);
-    return { rules, power: power as PowerConfig, scoring: scoring as ScoringConfig };
   },
   ["engine-config"],
   { tags: [CONFIG_TAG] },
