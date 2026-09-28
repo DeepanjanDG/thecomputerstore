@@ -1,0 +1,54 @@
+{
+  "name": "thecomputerstore",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Computer Store, Shillong: e-commerce storefront and custom PC builder",
+  "scripts": {
+    "dev": "next dev",
+    "build": "prisma generate && next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "db:local": "node scripts/local-db.mjs",
+    "db:push": "prisma db push",
+    "db:migrate": "prisma migrate dev",
+    "db:seed": "tsx prisma/seed.ts",
+    "db:studio": "prisma studio",
+    "images:fetch": "node scripts/fetch-product-images.mjs",
+    "images:sync": "node scripts/sync-product-images.mjs",
+    "images:update": "node scripts/fetch-product-images.mjs && node scripts/sync-product-images.mjs",
+    "check": "tsc --noEmit && vitest run"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "6.19.3",
+    "bcryptjs": "3.0.3",
+    "clsx": "2.1.1",
+    "jose": "6.2.12",
+    "lucide-react": "1.48.0",
+    "motion": "13.4.4",
+    "next": "15.5.26",
+    "pdf-lib": "1.17.1",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "server-only": "^0.0.1",
+    "tailwind-merge": "3.3.1",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "22.18.0",
+    "@types/react": "19.1.12",
+    "@types/react-dom": "19.1.9",
+    "embedded-postgres": "18.4.0-beta.17",
+    "prisma": "6.19.3",
+    "sharp": "^0.35.4",
+    "simple-icons": "^16.32.0",
+    "tailwindcss": "4.3.3",
+    "tsx": "4.20.5",
+    "typescript": "5.9.2",
+    "vitest": "3.2.4"
+  }
+}

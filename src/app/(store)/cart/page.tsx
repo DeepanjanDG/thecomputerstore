@@ -1,0 +1,12 @@
+import type { Metadata } from "next";
+import { CartView } from "./cart-view";
+
+export const metadata: Metadata = { title: "Your Cart", robots: { index: false } };
+
+export default function CartPage() {
+  return (
+    <div className="container-x py-8">
+      <CartView />
+    </div>
+  );
+}

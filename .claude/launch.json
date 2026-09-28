@@ -1,0 +1,33 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "dev"
+      ],
+      "port": 3000,
+      "env": {
+        "NEXT_TELEMETRY_DISABLED": "1",
+        "DATABASE_URL": "postgresql://postgres:postgres@localhost:5433/thecomputerstore",
+        "NEXT_PUBLIC_SITE_URL": "http://localhost:3000"
+      }
+    },
+    {
+      "name": "web-prod",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "start"
+      ],
+      "port": 3000,
+      "env": {
+        "NEXT_TELEMETRY_DISABLED": "1",
+        "DATABASE_URL": "postgresql://postgres:postgres@localhost:5433/thecomputerstore",
+        "NEXT_PUBLIC_SITE_URL": "http://localhost:3000"
+      }
+    }
+  ]
+}

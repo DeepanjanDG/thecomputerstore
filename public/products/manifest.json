@@ -1,0 +1,586 @@
+{
+  "CPU-R5-8600G": {
+    "file": "/products/cpu-r5-8600g.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#111111",
+    "source": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-5-8600g-og.jpg",
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-5-8600g.html"
+  },
+  "CPU-R7-8700G": {
+    "file": "/products/cpu-r7-8700g.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#111111",
+    "source": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-8700g-og.jpg",
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-7-8700g.html"
+  },
+  "CPU-R5-7600": {
+    "file": "/products/cpu-r5-7600.webp",
+    "width": 1200,
+    "height": 628,
+    "bg": "#262626",
+    "source": "https://www.amd.com/content/dam/code/images/header/ogimage.jpg",
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600.html"
+  },
+  "CPU-R5-9600X": {
+    "file": "/products/cpu-r5-9600x.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#111111",
+    "source": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-5-9600x-og.jpg",
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html"
+  },
+  "CPU-R7-7800X3D": {
+    "file": "/products/cpu-r7-7800x3d.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#111111",
+    "source": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-7800x3d-og.jpg",
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html"
+  },
+  "CPU-R7-9700X": {
+    "file": "/products/cpu-r7-9700x.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#111111",
+    "source": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-7-9700x-og.jpg",
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9700x.html"
+  },
+  "CPU-R7-9800X3D": {
+    "file": "/products/cpu-r7-9800x3d.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#111111",
+    "source": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2900400-ryzen-7-9800x3d.jpg",
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html"
+  },
+  "CPU-R9-9950X": {
+    "file": "/products/cpu-r9-9950x.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#111111",
+    "source": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2613900-ryzen-9-9950x-og.jpg",
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html"
+  },
+  "CPU-R5-5600": {
+    "file": "/products/cpu-r5-5600.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#021438",
+    "source": "https://www.amd.com/content/dam/amd/en/images/logos/corporate/1913654-homepage-twa-og-image.jpg",
+    "page": "https://www.amd.com/en/products/cpu/amd-ryzen-5-5600"
+  },
+  "CPU-R5-5600GT": {
+    "file": "/products/cpu-r5-5600gt.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#021438",
+    "source": "https://www.amd.com/content/dam/amd/en/images/logos/corporate/1913654-homepage-twa-og-image.jpg",
+    "page": "https://www.amd.com/en/products/apu/amd-ryzen-5-5600gt"
+  },
+  "CPU-R7-5700X": {
+    "file": "/products/cpu-r7-5700x.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#021438",
+    "source": "https://www.amd.com/content/dam/amd/en/images/logos/corporate/1913654-homepage-twa-og-image.jpg",
+    "page": "https://www.amd.com/en/products/cpu/amd-ryzen-7-5700x"
+  },
+  "GPU-ASUS-5060-8G": {
+    "file": "/products/gpu-asus-5060-8g.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/35710ce7-7a2b-42ab-aa48-63c448e6c047/",
+    "page": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rtx5060-o8g/"
+  },
+  "GPU-ASUS-5070TI-16G": {
+    "file": "/products/gpu-asus-5070ti-16g.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/a1ff0778-334d-4bc1-8862-7bfd44f2754b/",
+    "page": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-gaming/"
+  },
+  "GPU-ASUS-5090-32G": {
+    "file": "/products/gpu-asus-5090-32g.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/128A96DB-DA90-4C45-A7A7-2A56F9F4F48A",
+    "page": "https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-o32g-gaming/"
+  },
+  "GPU-MSI-4060-8G": {
+    "file": "/products/gpu-msi-4060-8g.webp",
+    "width": 1000,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_1689729049be0698e7a0dfe5ca158e7c0c4ccef54b.webp",
+    "page": "https://www.msi.com/Graphics-Card/GeForce-RTX-4060-VENTUS-2X-BLACK-8G"
+  },
+  "GPU-MSI-5070-12G": {
+    "file": "/products/gpu-msi-5070-12g.webp",
+    "width": 1000,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_173761452833d396c93379ad1ffbfe5367935dd6c2.webp",
+    "page": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-12G-VENTUS-2X-OC"
+  },
+  "MB-ASUS-B760M-A": {
+    "file": "/products/mb-asus-b760m-a.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/63f59141-7212-4e98-ade8-f0dd1cd4a349/",
+    "page": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-a-wifi/"
+  },
+  "MB-ASUS-TUF-B650-PLUS": {
+    "file": "/products/mb-asus-tuf-b650-plus.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/d52e1dd0-6b0b-4c62-a625-01c5e41a8b07/",
+    "page": "https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-plus-wifi/"
+  },
+  "MB-ASUS-X870E-E": {
+    "file": "/products/mb-asus-x870e-e.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/C2A10896-76C0-4772-9A3A-69D7B0C00441",
+    "page": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi/"
+  },
+  "MB-ASUS-Z890-P": {
+    "file": "/products/mb-asus-z890-p.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/755af9c8-c0ab-4640-9fe1-44545958537a/",
+    "page": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z890-p-wifi/"
+  },
+  "MB-MSI-B550M-PRO-VDH": {
+    "file": "/products/mb-msi-b550m-pro-vdh.webp",
+    "width": 1024,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_10_20200618152228_5eeb1634e9295.webp",
+    "page": "https://www.msi.com/Motherboard/B550M-PRO-VDH-WIFI"
+  },
+  "MB-MSI-B650M-A": {
+    "file": "/products/mb-msi-b650m-a.webp",
+    "width": 1000,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_1664782100d10ef26fe3fc5c4c436cc139db200c1c.webp",
+    "page": "https://www.msi.com/Motherboard/PRO-B650M-A-WIFI"
+  },
+  "MB-MSI-B760M-E-D4": {
+    "file": "/products/mb-msi-b760m-e-d4.webp",
+    "width": 1000,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_1672736801349ca87e1c2655f69918ed4c932c4820.webp",
+    "page": "https://www.msi.com/Motherboard/PRO-B760M-E-DDR4"
+  },
+  "MB-MSI-B850-TOMAHAWK": {
+    "file": "/products/mb-msi-b850-tomahawk.webp",
+    "width": 1000,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_1736159754f30751ff77a834ba28009a222071b3d3.webp",
+    "page": "https://www.msi.com/Motherboard/MAG-B850-TOMAHAWK-MAX-WIFI"
+  },
+  "MB-MSI-B860M-A": {
+    "file": "/products/mb-msi-b860m-a.webp",
+    "width": 1000,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_1736156238494a84d2d62e0d09ac13e0f6611a08a4.webp",
+    "page": "https://www.msi.com/Motherboard/PRO-B860M-A-WIFI"
+  },
+  "MB-MSI-Z790-TOMAHAWK": {
+    "file": "/products/mb-msi-z790-tomahawk.webp",
+    "width": 1000,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_1664265391459c76c55d481a806150407f1b07a6bb.webp",
+    "page": "https://www.msi.com/Motherboard/MAG-Z790-TOMAHAWK-WIFI"
+  },
+  "MON-MSI-275QF": {
+    "file": "/products/mon-msi-275qf.webp",
+    "width": 1000,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_1720417529b84be57999d240b252be40621ace7bb8.webp",
+    "page": "https://www.msi.com/Monitor/MAG-275QF"
+  },
+  "PSU-MSI-A650BN": {
+    "file": "/products/psu-msi-a650bn.webp",
+    "width": 1024,
+    "height": 820,
+    "bg": "#ffffff",
+    "source": "https://storage-asset.msi.com/global/picture/product/product_16264026911b468295cf2cd594cc57b1ceb5ab5d63.webp",
+    "page": "https://www.msi.com/Power-Supply/MAG-A650BN"
+  },
+  "ACC-ARC-MX6": {
+    "file": "/products/acc-arc-mx6.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://www.arctic.de/media/04/6f/28/1751009570/MX-6_4g_New_Formula_Eha_Kitguru_Webshop_G00.png",
+    "page": "https://www.arctic.de/en/MX-6/ACTCP00080A"
+  },
+  "ACC-SD-FLAIR128": {
+    "file": "/products/acc-sd-flair128.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://www.sandisk.com/content/dam/store/en-us/assets/products/usb-flash-drives/ultra-flair-usb-3-0/gallery/ultra-flair-3-0-front.png",
+    "page": "https://www.westerndigital.com/products/usb-flash-drives/sandisk-ultra-flair-usb-3-0"
+  },
+  "CASE-FD-TERRA": {
+    "file": "/products/case-fd-terra.webp",
+    "width": 1200,
+    "height": 630,
+    "bg": "#e3c7b9",
+    "source": "https://assets.fractal-design.com/images/uxzbxy2o/production/1d30913173340ec3066800938816cc20e6a6e227-2460x1845.jpg?w=1200&h=630&fit=crop&auto=format&q=80",
+    "page": "https://www.fractal-design.com/products/cases/terra/terra/"
+  },
+  "CASE-NZXT-H5F-W": {
+    "file": "/products/case-nzxt-h5f-w.webp",
+    "width": 1125,
+    "height": 1200,
+    "bg": "#fdfdfd",
+    "source": "http://nzxt.com/cdn/shop/collections/1_Cases_Title.png?v=1748846317&width=2048",
+    "page": "https://nzxt.com/product/h5-flow-2024"
+  },
+  "CCTV-TAPO-C200": {
+    "file": "/products/cctv-tapo-c200.webp",
+    "width": 1000,
+    "height": 1000,
+    "bg": "#ffffff",
+    "source": "https://static.tp-link.com/upload/image-line/01_large_20230817224004v.jpg",
+    "page": "https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c200/"
+  },
+  "CPU-I5-12400F": {
+    "file": "/products/cpu-i5-12400f.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#01c7fc",
+    "source": "https://www.intel.com/content/dam/logos/logo-energyblue-1x1.png",
+    "page": "https://www.intel.com/content/www/us/en/products/sku/134589/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz/specifications.html"
+  },
+  "CPU-I7-14700K": {
+    "file": "/products/cpu-i7-14700k.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#01c7fc",
+    "source": "https://www.intel.com/content/dam/logos/logo-energyblue-1x1.png",
+    "page": "https://www.intel.com/content/www/us/en/products/sku/236773/intel-core-i714700k-processor-33m-cache-up-to-5-60-ghz/specifications.html"
+  },
+  "CPU-U5-245K": {
+    "file": "/products/cpu-u5-245k.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#01c7fc",
+    "source": "https://www.intel.com/content/dam/logos/logo-energyblue-1x1.png",
+    "page": "https://www.intel.com/content/www/us/en/products/sku/241068/intel-core-ultra-5-processor-245k-24m-cache-up-to-5-20-ghz/specifications.html"
+  },
+  "CPU-U7-265K": {
+    "file": "/products/cpu-u7-265k.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#01c7fc",
+    "source": "https://www.intel.com/content/dam/logos/logo-energyblue-1x1.png",
+    "page": "https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-7-processor-265k-30m-cache-up-to-5-50-ghz/specifications.html"
+  },
+  "CPU-U9-285K": {
+    "file": "/products/cpu-u9-285k.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#01c7fc",
+    "source": "https://www.intel.com/content/dam/logos/logo-energyblue-1x1.png",
+    "page": "https://www.intel.com/content/www/us/en/products/sku/241059/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/specifications.html"
+  },
+  "DT-ASUS-NUC14": {
+    "file": "/products/dt-asus-nuc14.webp",
+    "width": 1200,
+    "height": 630,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/95c29498-390f-4b1c-942e-12a1029af188/",
+    "page": "https://www.asus.com/displays-desktops/nucs/nuc-mini-pcs/asus-nuc-14-pro/"
+  },
+  "GL-ASUS-TUFA15": {
+    "file": "/products/gl-asus-tufa15.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/11f9d4af-a396-4dbe-bbf4-7ee1ca8d5eca/",
+    "page": "https://www.asus.com/laptops/for-gaming/tuf-gaming/tuf-gaming-a15-2025/"
+  },
+  "GL-HP-VICTUS15": {
+    "file": "/products/gl-hp-victus15.webp",
+    "width": 990,
+    "height": 495,
+    "bg": "#fefefe",
+    "source": "https://www.hp.com/wcsstore/hpusstore/Banners/25_03_23_Hero_LaptopWeeklyDeals-Jul25_small.jpg",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-victus-gaming-laptop-15-fb2000"
+  },
+  "GL-LEN-LEGIONPRO5": {
+    "file": "/products/gl-len-legionpro5.webp",
+    "width": 584,
+    "height": 584,
+    "bg": "#ffffff",
+    "source": "https://p4-ofp.static.pub//fes/cms/2024/09/19/9mi4xh3z07ddp4jhxwyadcf0mkl15v972949.png",
+    "page": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-5-16irx9/len101g0025"
+  },
+  "GL-LEN-LOQ15": {
+    "file": "/products/gl-len-loq15.webp",
+    "width": 560,
+    "height": 450,
+    "bg": "#ffffff",
+    "source": "https://p4-ofp.static.pub/fes/cms/2023/03/17/l9dxdz668k7usuqh2pauvija2t1zkl091142.png",
+    "page": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/loq-series/loq-15irx9/len101g0027"
+  },
+  "GPU-GB-5080-16G": {
+    "file": "/products/gpu-gb-5080-16g.webp",
+    "width": 1200,
+    "height": 1105,
+    "bg": "#ffffff",
+    "source": "https://static.gigabyte.com/StaticFile/Image/Global/38af2d89471f6b313a828c2825305f27/ProductRemoveBg/43884",
+    "page": "https://www.gigabyte.com/Graphics-Card/GV-N5080GAMING-OC-16GD"
+  },
+  "HS-RZ-BSV2X": {
+    "file": "/products/hs-rz-bsv2x.webp",
+    "width": 1200,
+    "height": 630,
+    "bg": "#011308",
+    "source": "https://assets2.razerzone.com/images/pnx.assets/8864ce1bcf7bbd3001fb4bdf4fc88965/razer-blackshark-v2-x-og-image.webp",
+    "page": "https://www.razer.com/gaming-headsets/razer-blackshark-v2-x"
+  },
+  "KB-KC-K2V2": {
+    "file": "/products/kb-kc-k2v2.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "http://www.keychron.com/cdn/shop/products/Keychron-K2-wireless-mechanical-keyboard-for-Mac-Windows-iOS-Gateron-switch-red-with-type-C-RGB-white-backlight-exclusive-color.jpg?crop=center&height=1200&v=1650445595&width=1200",
+    "page": "https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard"
+  },
+  "KB-LOGI-K120": {
+    "file": "/products/kb-logi-k120.webp",
+    "width": 1200,
+    "height": 630,
+    "bg": "#0e3938",
+    "source": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/delorean-hp/logitech-global-og-image.png",
+    "page": "https://www.logitech.com/en-us/products/keyboards/k120-keyboard.920-002478.html"
+  },
+  "KB-ZEB-COMBO": {
+    "file": "/products/kb-zeb-combo.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#f6f8fc",
+    "source": "http://zebronics.com/cdn/shop/products/Zeb-Companion-107-pic1.jpg?v=1624886271&width=2048",
+    "page": "https://www.zebronics.com/products/zeb-companion-107"
+  },
+  "LAP-ASUS-VB15-I5": {
+    "file": "/products/lap-asus-vb15-i5.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/72549656-e4c9-4d7b-94a6-f391d3a9e9e6/",
+    "page": "https://www.asus.com/laptops/for-home/vivobook/vivobook-15-x1504/"
+  },
+  "LAP-DELL-INS3530": {
+    "file": "/products/lap-dell-ins3530.webp",
+    "width": 1200,
+    "height": 633,
+    "bg": "#ffffff",
+    "source": "https://i.dell.com/is/image/DellContent/content/dam/images/logos/dell-technologies/stacked/digital/delltech-logo-stk-blue-rgb.png?wid=1346&hei=710&fit=fit",
+    "page": "https://www.dell.com/en-us/shop/laptops/inspiron-15-3530-laptop/spd/inspiron-15-3530-laptop"
+  },
+  "LAP-HP-15S-I3": {
+    "file": "/products/lap-hp-15s-i3.webp",
+    "width": 990,
+    "height": 495,
+    "bg": "#fefefe",
+    "source": "https://www.hp.com/wcsstore/hpusstore/Banners/25_03_23_Hero_LaptopWeeklyDeals-Jul25_small.jpg",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-15-laptop-15-fd0000"
+  },
+  "LAP-LEN-E14G6": {
+    "file": "/products/lap-len-e14g6.webp",
+    "width": 560,
+    "height": 450,
+    "bg": "#ffffff",
+    "source": "https://p3-ofp.static.pub//fes/cms/2023/06/06/gp49wjme8nzqm6tghn7qggut4pwlyj864801.png",
+    "page": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-6-14-inch-intel/len101t0072"
+  },
+  "LAP-LEN-SLIM5-R7": {
+    "file": "/products/lap-len-slim5-r7.webp",
+    "width": 560,
+    "height": 450,
+    "bg": "#ffffff",
+    "source": "https://p3-ofp.static.pub/fes/cms/2022/02/07/lo2f76do63tjoo58llyo8f2xdf8eh6979022.png",
+    "page": "https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-slim-5-series/ideapad-slim-5-14-amd/len101i0038"
+  },
+  "MON-ASUS-VG27AQ3A": {
+    "file": "/products/mon-asus-vg27aq3a.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://dlcdnwebimgs.asus.com/gain/b6351479-db37-4f8e-9311-be37b14b01ae/",
+    "page": "https://www.asus.com/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg27aq3a/"
+  },
+  "MON-DELL-E2225H": {
+    "file": "/products/mon-dell-e2225h.webp",
+    "width": 800,
+    "height": 620,
+    "bg": "#ffffff",
+    "source": "https://i.dell.com/is/image/DellContent//content/dam/ss2/page-specific/category-pages/dlud22-wb7022-wl7022-km7321w-la7430nt-u2722d-xbt-800x620.png?fmt=png-alpha&wid=800&hei=620",
+    "page": "https://www.dell.com/en-us/shop/dell-22-monitor-e2225h/apd/210-bnzv/monitors-monitor-accessories"
+  },
+  "MS-LOGI-MX3S": {
+    "file": "/products/ms-logi-mx3s.webp",
+    "width": 1200,
+    "height": 630,
+    "bg": "#0e3938",
+    "source": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/delorean-hp/logitech-global-og-image.png",
+    "page": "https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html"
+  },
+  "MS-RZ-DAV3": {
+    "file": "/products/ms-rz-dav3.webp",
+    "width": 1200,
+    "height": 630,
+    "bg": "#1d2925",
+    "source": "https://assets2.razerzone.com/images/pnx.assets/b993b88204244288b62d053375f5be2e/razer-deathadder-v3-og-image.webp",
+    "page": "https://www.razer.com/gaming-mice/razer-deathadder-v3"
+  },
+  "NET-DL-DES1016C": {
+    "file": "/products/net-dl-des1016c.webp",
+    "width": 1000,
+    "height": 820,
+    "bg": "#ffffff",
+    "source": "https://www.dlink.com/en/-/media/product-pages/des/1016a/des1016afront.png",
+    "page": "https://www.dlink.com/en/products/des-1016a-16-port-fast-ethernet-unmanaged-switch"
+  },
+  "NET-TPL-AX23": {
+    "file": "/products/net-tpl-ax23.webp",
+    "width": 1000,
+    "height": 1000,
+    "bg": "#ffffff",
+    "source": "https://static.tp-link.com/1large_1627273016330o.jpg",
+    "page": "https://www.tp-link.com/en/home-networking/wifi-router/archer-ax23/"
+  },
+  "NET-TPL-T3U": {
+    "file": "/products/net-tpl-t3u.webp",
+    "width": 1000,
+    "height": 1000,
+    "bg": "#ffffff",
+    "source": "https://static.tp-link.com/upload/image-line/Archer-T3U-Nano_EU_1_(1)_large_20211026074125r.jpg",
+    "page": "https://www.tp-link.com/en/home-networking/adapter/archer-t3u-nano/"
+  },
+  "PRN-HP-M141W": {
+    "file": "/products/prn-hp-m141w.webp",
+    "width": 990,
+    "height": 495,
+    "bg": "#fefefe",
+    "source": "https://www.hp.com/wcsstore/hpusstore/Banners/25_03_23_Hero_LaptopWeeklyDeals-Jul25_small.jpg",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-laserjet-mfp-m141w"
+  },
+  "SSD-SS-870-500": {
+    "file": "/products/ssd-ss-870-500.webp",
+    "width": 1200,
+    "height": 628,
+    "bg": "#15289f",
+    "source": "https://image-us.samsung.com/SamsungUS/home/samsung-logo-191-1.jpg",
+    "page": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/870-evo-sata-2-5-ssd-500gb-mz-77e500b-am/"
+  },
+  "SW-K7-TS": {
+    "file": "/products/sw-k7-ts.webp",
+    "width": 1200,
+    "height": 630,
+    "bg": "#ffffff",
+    "source": "https://www.k7computing.com/img/metadata/logo.png",
+    "page": "https://www.k7computing.com/us/home-total-security"
+  },
+  "SW-WIN11-HOME": {
+    "file": "/products/sw-win11-home.webp",
+    "width": 539,
+    "height": 303,
+    "bg": "#c8d0f4",
+    "source": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Meet-Windows-og-image?scl=1",
+    "page": "https://www.microsoft.com/en-us/windows/windows-11"
+  },
+  "SW-WIN11-PRO": {
+    "file": "/products/sw-win11-pro.webp",
+    "width": 1083,
+    "height": 640,
+    "bg": "#787f9e",
+    "source": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-FY25-Win11Pro-hero:VP3-1083x640",
+    "page": "https://www.microsoft.com/en-us/windows/business/windows-11-pro"
+  },
+  "TAB-SS-S9FE": {
+    "file": "/products/tab-ss-s9fe.webp",
+    "width": 500,
+    "height": 500,
+    "bg": "#1528a0",
+    "source": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/logo-square-letter.png",
+    "page": "https://www.samsung.com/us/tablets/galaxy-tab-s9-fe/"
+  },
+  "UPS-APC-BVX1600": {
+    "file": "/products/ups-apc-bvx1600.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://download.schneider-electric.com/files?p_Doc_Ref=BVX1600LI_IN_Image_FS_V&p_File_Type=rendition_1500_jpg",
+    "page": "https://www.apc.com/in/en/product/BVX1600LI-IN/back-ups-bx-1600va-160-230v-avr-universal-and-iec-sockets/"
+  },
+  "UPS-APC-BX1100": {
+    "file": "/products/ups-apc-bx1100.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_VGUA-A59C75_B_V&p_File_Type=rendition_1500_jpg",
+    "page": "https://www.apc.com/in/en/product/BX1100C-IN/back-ups-1100va-230v-with-avr-universal-sockets/"
+  },
+  "UPS-APC-BX600": {
+    "file": "/products/ups-apc-bx600.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://download.schneider-electric.com/files?p_Doc_Ref=SPD_VGUA-9WHANJ_B_V&p_File_Type=rendition_1500_jpg",
+    "page": "https://www.apc.com/in/en/product/BX600C-IN/back-ups-600va-230v-avr-universal-sockets/"
+  },
+  "CHR-GS-BEAST": {
+    "file": "/products/chr-gs-beast.webp",
+    "width": 600,
+    "height": 600,
+    "bg": "#090909",
+    "source": "http://www.greensoul.online/cdn/shop/files/801383429-beast-hero-shot-5_grande.jpg?v=1762279872",
+    "page": "https://www.greensoul.online/products/beast-gaming-chair"
+  },
+  "CHR-GS-MONSTER": {
+    "file": "/products/chr-gs-monster.webp",
+    "width": 600,
+    "height": 600,
+    "bg": "#040404",
+    "source": "http://www.greensoul.online/cdn/shop/files/740038922-blacks_grande.png?v=1761330640",
+    "page": "https://www.greensoul.online/products/monster-ultimate-s-gaming-chair"
+  },
+  "DT-HP-AIO24": {
+    "file": "/products/dt-hp-aio24.webp",
+    "width": 990,
+    "height": 495,
+    "bg": "#fefefe",
+    "source": "https://www.hp.com/wcsstore/hpusstore/Banners/25_03_23_Hero_LaptopWeeklyDeals-Jul25_small.jpg",
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-all-in-one-24-cb1097in"
+  },
+  "GPU-GB-5060TI-16G": {
+    "file": "/products/gpu-gb-5060ti-16g.webp",
+    "width": 1193,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://static.gigabyte.com/StaticFile/Image/Global/45fe8e5fb60e92776eeee70a1930ebf6/ProductRemoveBg/44873",
+    "page": "https://www.gigabyte.com/Graphics-Card/GV-N506TWF2OC-16GD"
+  }
+}

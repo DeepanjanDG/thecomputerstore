@@ -1,0 +1,517 @@
+{
+  "ACC-ARC-MX6": {
+    "page": "https://www.arctic.de/en/MX-6/ACTCP00080A"
+  },
+  "ACC-LOGI-DESKMAT": {
+    "page": "https://www.logitechg.com/en-us/products/gaming-desk-mats/desk-mat-studio-series.943-000238.html"
+  },
+  "ACC-SD-FLAIR128": {
+    "page": "https://www.westerndigital.com/products/usb-flash-drives/sandisk-ultra-flair-usb-3-0"
+  },
+  "ACC-SG-OT-2T": {
+    "page": "https://www.seagate.com/gb/en/consumer/backup/one-touch/"
+  },
+  "ACC-SS-T7-1T": {
+    "page": "https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t7-1tb-gray-mu-pc1t0t-am/"
+  },
+  "CASE-ANT-ICE112": {
+    "page": "https://www.antesports.com/product/ice-112/"
+  },
+  "CASE-CM-Q300L": {
+    "page": "https://www.coolermaster.com/catalog/cases/mini-tower/masterbox-q300l/"
+  },
+  "CASE-COR-4000D": {
+    "page": "https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww"
+  },
+  "CASE-DC-CH560": {
+    "page": "https://www.deepcool.com/products/case/midtower/ch560digital/"
+  },
+  "CASE-FD-TERRA": {
+    "page": "https://www.fractal-design.com/products/cases/terra/terra/"
+  },
+  "CASE-LL-O11EVO": {
+    "page": "https://www.lian-li.com/product/o11-dynamic-evo/"
+  },
+  "CASE-MT-AIR903": {
+    "page": "https://www.montechcase.com/products/air-903-max"
+  },
+  "CASE-NZXT-H5F-W": {
+    "page": "https://nzxt.com/product/h5-flow-2024"
+  },
+  "CCTV-CP-DOME2": {
+    "page": "https://www.cpplusworld.com/product/cp-usc-da24pl2-w280-d-5"
+  },
+  "CCTV-CP-DVR8": {
+    "page": "https://www.cpplusworld.com/product/cp-uvr-0801e1-hc"
+  },
+  "CCTV-HIK-BULLET2": {
+    "page": "https://www.hikvision.com/en/products/ip-products/network-cameras/easyip-4.0/ds-2cd1023g2-liu/"
+  },
+  "CCTV-HIK-NVR4": {
+    "page": "https://www.hikvision.com/en/products/ip-products/network-video-recorders/-value--series/ds-7604ni-k1-4p-c/"
+  },
+  "CCTV-TAPO-C200": {
+    "page": "https://www.tp-link.com/en/home-networking/cloud-camera/tapo-c200/"
+  },
+  "CHR-DXR-FORMULA": {
+    "page": "https://www.dxracer.com/us/en-us/product/1/gaming-chairs/formula-and-racing-series/"
+  },
+  "CHR-GS-BEAST": {
+    "page": "https://www.greensoul.online/products/beast-gaming-chair"
+  },
+  "CHR-GS-MONSTER": {
+    "page": "https://www.greensoul.online/products/monster-ultimate-s-gaming-chair"
+  },
+  "CL-ARC-LF3-240": {
+    "page": "https://www.arctic.de/en/Liquid-Freezer-III-240/ACFRE00136A"
+  },
+  "CL-CM-212-V3": {
+    "page": "https://www.coolermaster.com/catalog/coolers/cpu-liquid-coolers/hyper-212-spectrum-v3/"
+  },
+  "CL-DC-AK400": {
+    "page": "https://www.deepcool.com/products/cooling/aircooling/ak400/"
+  },
+  "CL-DC-AK620D": {
+    "page": "https://www.deepcool.com/products/cooling/aircooling/ak620digital/"
+  },
+  "CL-LL-GAL2-360": {
+    "page": "https://www.lian-li.com/product/galahad-ii-trinity-performance-360/"
+  },
+  "CL-NOC-D15G2": {
+    "page": "https://noctua.at/en/nh-d15-g2"
+  },
+  "CL-NOC-L12S": {
+    "page": "https://noctua.at/en/nh-l12s"
+  },
+  "CL-NZXT-K360": {
+    "page": "https://nzxt.com/product/kraken-2024"
+  },
+  "CL-TR-PA120SE": {
+    "page": "https://www.thermalright.com/product/peerless-assassin-120-se/"
+  },
+  "CPU-I3-12100F": {
+    "page": "https://www.intel.com/content/www/us/en/products/sku/134568/intel-core-i312100f-processor-12m-cache-up-to-4-30-ghz/specifications.html"
+  },
+  "CPU-I5-12400F": {
+    "page": "https://www.intel.com/content/www/us/en/products/sku/134589/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz/specifications.html"
+  },
+  "CPU-I5-14400F": {
+    "page": "https://www.intel.com/content/www/us/en/products/sku/236340/intel-core-i514400f-processor-20m-cache-up-to-4-70-ghz/specifications.html"
+  },
+  "CPU-I7-14700K": {
+    "page": "https://www.intel.com/content/www/us/en/products/sku/236773/intel-core-i714700k-processor-33m-cache-up-to-5-60-ghz/specifications.html"
+  },
+  "CPU-R5-5600": {
+    "page": "https://www.amd.com/en/products/cpu/amd-ryzen-5-5600"
+  },
+  "CPU-R5-5600GT": {
+    "page": "https://www.amd.com/en/products/apu/amd-ryzen-5-5600gt"
+  },
+  "CPU-R5-7600": {
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600.html"
+  },
+  "CPU-R5-8600G": {
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-5-8600g.html"
+  },
+  "CPU-R5-9600X": {
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html"
+  },
+  "CPU-R7-5700X": {
+    "page": "https://www.amd.com/en/products/cpu/amd-ryzen-7-5700x"
+  },
+  "CPU-R7-7800X3D": {
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html"
+  },
+  "CPU-R7-8700G": {
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-7-8700g.html"
+  },
+  "CPU-R7-9700X": {
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9700x.html"
+  },
+  "CPU-R7-9800X3D": {
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html"
+  },
+  "CPU-R9-9950X": {
+    "page": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html"
+  },
+  "CPU-U5-245K": {
+    "page": "https://www.intel.com/content/www/us/en/products/sku/241068/intel-core-ultra-5-processor-245k-24m-cache-up-to-5-20-ghz/specifications.html"
+  },
+  "CPU-U7-265K": {
+    "page": "https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-7-processor-265k-30m-cache-up-to-5-50-ghz/specifications.html"
+  },
+  "CPU-U9-285K": {
+    "page": "https://www.intel.com/content/www/us/en/products/sku/241059/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/specifications.html"
+  },
+  "DT-ASUS-NUC14": {
+    "page": "https://www.asus.com/displays-desktops/nucs/nuc-mini-pcs/asus-nuc-14-pro/"
+  },
+  "DT-DELL-OPTI7020": {
+    "page": "https://www.dell.com/en-us/shop/desktop-computers/optiplex-7020-tower/spd/optiplex-7020-desktop",
+    "note": "Discontinued/superseded lineup \u2014 page may redirect; consider a locally stored photo if unavailable."
+  },
+  "DT-HP-AIO24": {
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-all-in-one-24-cb1097in"
+  },
+  "DT-LEN-AIO3": {
+    "page": "https://www.lenovo.com/us/en/p/desktops/ideacentre/ideacentre-aio-3-series/ideacentre-aio-3-27-amd-gen-9/len101i0068"
+  },
+  "FAN-ARC-P12-5": {
+    "page": "https://www.arctic.de/en/P12-PWM-PST-Value-Pack/ACFAN00120A"
+  },
+  "FAN-DC-FC120-3": {
+    "page": "https://www.deepcool.com/products/cooling/casefans/fc120argb3in1/"
+  },
+  "FAN-LL-SLINF-3": {
+    "page": "https://www.lian-li.com/product/uni-fan-sl-inf-120/"
+  },
+  "FAN-NOC-A14": {
+    "page": "https://noctua.at/en/nf-a14-pwm"
+  },
+  "GL-ACER-NITROV15": {
+    "page": "https://www.acer.com/us-en/laptops/nitro-gaming/nitro-v/pdp/NH.QN9AA.001"
+  },
+  "GL-ASUS-TUFA15": {
+    "page": "https://www.asus.com/laptops/for-gaming/tuf-gaming/tuf-gaming-a15-2025/"
+  },
+  "GL-HP-VICTUS15": {
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-victus-gaming-laptop-15-fb2000"
+  },
+  "GL-LEN-LEGIONPRO5": {
+    "page": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/legion-pro-5-16irx9/len101g0025"
+  },
+  "GL-LEN-LOQ15": {
+    "page": "https://www.lenovo.com/us/en/p/laptops/legion-laptops/loq-series/loq-15irx9/len101g0027"
+  },
+  "GPU-ASUS-5060-8G": {
+    "page": "https://www.asus.com/us/motherboards-components/graphics-cards/dual/dual-rtx5060-o8g/"
+  },
+  "GPU-ASUS-5070TI-16G": {
+    "page": "https://www.asus.com/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx5070ti-o16g-gaming/"
+  },
+  "GPU-ASUS-5090-32G": {
+    "page": "https://rog.asus.com/graphics-cards/graphics-cards/rog-astral/rog-astral-rtx5090-o32g-gaming/"
+  },
+  "GPU-GB-5060TI-16G": {
+    "page": "https://www.gigabyte.com/Graphics-Card/GV-N506TWF2OC-16GD"
+  },
+  "GPU-GB-5080-16G": {
+    "page": "https://www.gigabyte.com/Graphics-Card/GV-N5080GAMING-OC-16GD"
+  },
+  "GPU-MSI-4060-8G": {
+    "page": "https://www.msi.com/Graphics-Card/GeForce-RTX-4060-VENTUS-2X-BLACK-8G",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_1689729049be0698e7a0dfe5ca158e7c0c4ccef54b.webp"
+  },
+  "GPU-MSI-5070-12G": {
+    "page": "https://www.msi.com/Graphics-Card/GeForce-RTX-5070-12G-VENTUS-2X-OC",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_173761452833d396c93379ad1ffbfe5367935dd6c2.webp"
+  },
+  "GPU-PC-9070XT-16G": {
+    "page": "https://www.powercolor.com/product-detail/Hellhound%20RX%209070%20XT%2016G%20OC"
+  },
+  "GPU-SAP-7600-8G": {
+    "page": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-7600-8g-gddr6"
+  },
+  "GPU-SAP-9060XT-16G": {
+    "page": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-16g-gddr6"
+  },
+  "GPU-ZT-3050-6G": {
+    "page": "https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-rtx-3050-6gb-twin-edge"
+  },
+  "GPU-ZT-4070-12G": {
+    "page": "https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-rtx-4070-twin-edge-oc-12gb"
+  },
+  "HDD-SG-BC-1T": {
+    "page": "https://www.seagate.com/products/hard-drives/barracuda-hard-drive/"
+  },
+  "HDD-SG-BC-2T": {
+    "page": "https://www.seagate.com/products/hard-drives/barracuda-hard-drive/"
+  },
+  "HDD-SG-IW-8T": {
+    "page": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/"
+  },
+  "HDD-WD-BLUE-4T": {
+    "page": "https://www.westerndigital.com/products/internal-drives/wd-blue-desktop-hdd"
+  },
+  "HS-HX-CLOUD3": {
+    "page": "https://www.hyperxgaming.com/en/headsets/cloud-iii-wired-gaming-headset"
+  },
+  "HS-LOGI-G435": {
+    "page": "https://www.logitechg.com/en-us/products/gaming-audio/g435-wireless-bluetooth-headset.981-001081.html"
+  },
+  "HS-RZ-BSV2X": {
+    "page": "https://www.razer.com/gaming-headsets/razer-blackshark-v2-x"
+  },
+  "KB-KC-K2V2": {
+    "page": "https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard"
+  },
+  "KB-LOGI-K120": {
+    "page": "https://www.logitech.com/en-us/products/keyboards/k120-keyboard.920-002478.html"
+  },
+  "KB-RD-K552": {
+    "page": "https://redragonshop.com/products/redragon-k552-kumara-mechanical-gaming-keyboard"
+  },
+  "KB-RZ-BWV4X": {
+    "page": "https://www.razer.com/gaming-keyboards-keypads/razer-blackwidow-v4-x"
+  },
+  "KB-ZEB-COMBO": {
+    "page": "https://www.zebronics.com/products/zeb-companion-107"
+  },
+  "LAP-ACER-ALITE-R5": {
+    "page": "https://www.acer.com/us-en/laptops/aspire/aspire-lite/pdp/NX.KQNAA.001"
+  },
+  "LAP-ASUS-VB15-I5": {
+    "page": "https://www.asus.com/laptops/for-home/vivobook/vivobook-15-x1504/"
+  },
+  "LAP-DELL-INS3530": {
+    "page": "https://www.dell.com/en-us/shop/laptops/inspiron-15-3530-laptop/spd/inspiron-15-3530-laptop"
+  },
+  "LAP-HP-15S-I3": {
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-15-laptop-15-fd0000"
+  },
+  "LAP-LEN-E14G6": {
+    "page": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-6-14-inch-intel/len101t0072",
+    "note": "Superseded/legacy generation \u2014 page may redirect; consider archiving a stored photo if unavailable."
+  },
+  "LAP-LEN-SLIM5-R7": {
+    "page": "https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-slim-5-series/ideapad-slim-5-14-amd/len101i0038"
+  },
+  "MB-ASUS-B760M-A": {
+    "page": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b760m-a-wifi/"
+  },
+  "MB-ASUS-TUF-B650-PLUS": {
+    "page": "https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b650-plus-wifi/"
+  },
+  "MB-ASUS-X870E-E": {
+    "page": "https://rog.asus.com/motherboards/rog-strix/rog-strix-x870e-e-gaming-wifi/"
+  },
+  "MB-ASUS-Z890-P": {
+    "page": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z890-p-wifi/"
+  },
+  "MB-GB-B450M-DS3H": {
+    "page": "https://www.gigabyte.com/Motherboard/B450M-DS3H-rev-11-12"
+  },
+  "MB-GB-B650I-ULTRA": {
+    "page": "https://www.gigabyte.com/Motherboard/B650I-AORUS-ULTRA-rev-1x"
+  },
+  "MB-GB-H610M-S2H": {
+    "page": "https://www.gigabyte.com/Motherboard/H610M-S2H-DDR4-rev-1x"
+  },
+  "MB-MSI-B550M-PRO-VDH": {
+    "page": "https://www.msi.com/Motherboard/B550M-PRO-VDH-WIFI",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_10_20200618152228_5eeb1634e9295.webp"
+  },
+  "MB-MSI-B650M-A": {
+    "page": "https://www.msi.com/Motherboard/PRO-B650M-A-WIFI",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_1664782100d10ef26fe3fc5c4c436cc139db200c1c.webp"
+  },
+  "MB-MSI-B760M-E-D4": {
+    "page": "https://www.msi.com/Motherboard/PRO-B760M-E-DDR4",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_1672736801349ca87e1c2655f69918ed4c932c4820.webp"
+  },
+  "MB-MSI-B850-TOMAHAWK": {
+    "page": "https://www.msi.com/Motherboard/MAG-B850-TOMAHAWK-MAX-WIFI",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_1736159754f30751ff77a834ba28009a222071b3d3.webp"
+  },
+  "MB-MSI-B860M-A": {
+    "page": "https://www.msi.com/Motherboard/PRO-B860M-A-WIFI",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_1736156238494a84d2d62e0d09ac13e0f6611a08a4.webp"
+  },
+  "MB-MSI-Z790-TOMAHAWK": {
+    "page": "https://www.msi.com/Motherboard/MAG-Z790-TOMAHAWK-WIFI",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_1664265391459c76c55d481a806150407f1b07a6bb.webp"
+  },
+  "MON-ACER-VG240YE": {
+    "page": "https://www.acer.com/us-en/monitors/gaming/nitro-vg0/pdp/UM.QV0AA.E01"
+  },
+  "MON-ASUS-VG27AQ3A": {
+    "page": "https://www.asus.com/displays-desktops/monitors/tuf-gaming/tuf-gaming-vg27aq3a/"
+  },
+  "MON-DELL-E2225H": {
+    "page": "https://www.dell.com/en-us/shop/dell-22-monitor-e2225h/apd/210-bnzv/monitors-monitor-accessories"
+  },
+  "MON-DELL-S2722QC": {
+    "page": "https://www.dell.com/en-us/shop/dell-27-4k-usb-c-monitor-s2722qc/apd/210-azzc/monitors-monitor-accessories"
+  },
+  "MON-LG-24GS60F": {
+    "page": "https://www.lg.com/us/monitors/lg-24gs60f-b"
+  },
+  "MON-LG-27GR93U": {
+    "page": "https://www.lg.com/us/monitors/lg-27gr93u-b"
+  },
+  "MON-MSI-275QF": {
+    "page": "https://www.msi.com/Monitor/MAG-275QF",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_1720417529b84be57999d240b252be40621ace7bb8.webp"
+  },
+  "MON-SS-G5-32": {
+    "page": "https://www.samsung.com/us/computing/monitors/gaming/odyssey-g5-32-inch-qhd-165hz-curved-gaming-monitor-ls32cg510enxza/"
+  },
+  "MON-SS-OLEDG6": {
+    "page": "https://www.samsung.com/us/computing/monitors/gaming/odyssey-oled-g6-27-inch-qhd-360hz-curved-gaming-monitor-ls27fg602sqnxgo/"
+  },
+  "MS-LOGI-G102": {
+    "page": "https://www.logitechg.com/en-us/products/gaming-mice/g102-lightsync-gaming-mouse.910-005823.html"
+  },
+  "MS-LOGI-G304": {
+    "page": "https://www.logitechg.com/en-us/products/gaming-mice/g304-lightspeed-wireless-gaming-mouse.910-005282.html"
+  },
+  "MS-LOGI-MX3S": {
+    "page": "https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html"
+  },
+  "MS-RZ-DAV3": {
+    "page": "https://www.razer.com/gaming-mice/razer-deathadder-v3"
+  },
+  "NET-DL-DES1016C": {
+    "page": "https://www.dlink.com/en/products/des-1016a-16-port-fast-ethernet-unmanaged-switch",
+    "note": "Catalogue SKU (DES-1016C) doesn't match D-Link's current naming; closest live model is the DES-1016A Fast Ethernet unmanaged switch. Verify against the distributor invoice and correct the SKU/model in the admin panel if needed."
+  },
+  "NET-TPL-AX23": {
+    "page": "https://www.tp-link.com/en/home-networking/wifi-router/archer-ax23/"
+  },
+  "NET-TPL-SG1008D": {
+    "page": "https://www.tp-link.com/en/business-networking/easy-smart-switch/tl-sg1008d/"
+  },
+  "NET-TPL-T3U": {
+    "page": "https://www.tp-link.com/en/home-networking/adapter/archer-t3u-nano/"
+  },
+  "NET-TPL-TX20E": {
+    "page": "https://www.tp-link.com/en/home-networking/pcie-adapter/archer-tx20e/"
+  },
+  "NET-TPL-TXE72E": {
+    "page": "https://www.tp-link.com/en/home-networking/pcie-adapter/archer-txe72e/"
+  },
+  "PRN-BR-L2321D": {
+    "page": "https://www.brother.in/en/printers-and-multifunction/laser-printers/hll2321d"
+  },
+  "PRN-BR-T426W": {
+    "page": "https://www.brother.in/en/printers-and-multifunction/refill-tank-printers/dcpt426w"
+  },
+  "PRN-CN-G3770": {
+    "page": "https://in.canon/en/consumer/pixma-g3770"
+  },
+  "PRN-EP-L3250": {
+    "page": "https://www.epson.in/products/printers-and-multifunction/ink-tank-printers/multi-function/ecotank-l3250"
+  },
+  "PRN-HP-M141W": {
+    "page": "https://www.hp.com/us-en/shop/pdp/hp-laserjet-mfp-m141w"
+  },
+  "PRN-TVS-RP3160": {
+    "page": "https://www.tvs-e.in/product/rp-3160-gold/"
+  },
+  "PSU-CM-MWE750G": {
+    "page": "https://www.coolermaster.com/catalog/power-supplies/mwe-gold-v2-atx-3-0/"
+  },
+  "PSU-CM-V850SFX": {
+    "page": "https://www.coolermaster.com/catalog/power-supplies/v-sfx-gold-atx3-0/"
+  },
+  "PSU-COR-CX650": {
+    "page": "https://www.corsair.com/us/en/p/psu/cp-9020123-na/cx650-fully-modular-80-plus-bronze-atx-power-supply-cp-9020123-na"
+  },
+  "PSU-COR-HX1500I": {
+    "page": "https://www.corsair.com/us/en/p/psu/cp-9020259-na/hx1500i-fully-modular-ultra-low-noise-platinum-atx-1500-watt-pc-power-supply-cp-9020259-na"
+  },
+  "PSU-COR-RM850E": {
+    "page": "https://www.corsair.com/us/en/p/psu/cp-9020263-na/rm850e-fully-modular-low-noise-atx-power-supply-cp-9020263-na"
+  },
+  "PSU-DC-PK550D": {
+    "page": "https://www.deepcool.com/products/power/pk-series/pk550d/"
+  },
+  "PSU-DC-PX1000G": {
+    "page": "https://www.deepcool.com/products/power/px-series/px1000g/"
+  },
+  "PSU-MSI-A650BN": {
+    "page": "https://www.msi.com/Power-Supply/MAG-A650BN",
+    "image": "https://storage-asset.msi.com/global/picture/product/product_16264026911b468295cf2cd594cc57b1ceb5ab5d63.webp"
+  },
+  "RAM-COR-LPX-16-D4": {
+    "page": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeance-lpx-16gb-2x8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16"
+  },
+  "RAM-COR-V-96-D5": {
+    "page": "https://www.corsair.com/us/en/p/memory/cmk96gx5m2b6000c30/vengeance-96gb-2x48gb-ddr5-dram-6000mhz-c30-memory-kit-black-cmk96gx5m2b6000c30"
+  },
+  "RAM-COR-VRGB-32-D5": {
+    "page": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mhz-c30-memory-kit-black-cmh32gx5m2b6000c30"
+  },
+  "RAM-GS-RV-32-D4": {
+    "page": "https://www.gskill.com/product/165/167/1568622064/F4-3600C16D-32GVK"
+  },
+  "RAM-GS-TZ5-64-D5": {
+    "page": "https://www.gskill.com/product/173/197/1673839988/F5-6400J3239G32GX2-TZ5RK"
+  },
+  "RAM-KF-BEAST-16-D5": {
+    "page": "https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5"
+  },
+  "RAM-KF-BEAST-64-D5": {
+    "page": "https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5"
+  },
+  "RAM-XPG-LANCER-32-D5": {
+    "page": "https://www.xpg.com/en/lancer/"
+  },
+  "SPK-CR-PEBV3": {
+    "page": "https://creative.com/p/speakers/creative-pebble-v3"
+  },
+  "SPK-ED-R1280DB": {
+    "page": "https://www.edifier.com/us/en/r1280db-bookshelf-speakers"
+  },
+  "SPK-LOGI-Z313": {
+    "page": "https://www.logitech.com/en-us/products/speakers/z313-speaker-system.html"
+  },
+  "SSD-CR-P3P-500": {
+    "page": "https://www.crucial.com/ssd/p3-plus/ct500p3psd8"
+  },
+  "SSD-CR-T705-2T": {
+    "page": "https://www.crucial.com/ssd/t705/ct2000t705ssd3"
+  },
+  "SSD-KS-NV3-2T": {
+    "page": "https://www.kingston.com/en/ssd/nv3-nvme-pcie-ssd"
+  },
+  "SSD-SS-870-500": {
+    "page": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/870-evo-sata-2-5-ssd-500gb-mz-77e500b-am/"
+  },
+  "SSD-SS-990EP-1T": {
+    "page": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/990-evo-plus-pcie-4-0-nvme-2-0-ssd-1tb-mz-v9s1t0b-am/"
+  },
+  "SSD-SS-990P-2T": {
+    "page": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/990-pro-pcie-4-0-nvme-2-0-ssd-2tb-mz-v9p2t0b-am/"
+  },
+  "SSD-WD-SN580-1T": {
+    "page": "https://www.westerndigital.com/products/internal-ssd/wd-blue-sn580-nvme-ssd"
+  },
+  "SSD-WD-SN850X-4T": {
+    "page": "https://www.westerndigital.com/products/internal-ssd/wd-black-sn850x-nvme-ssd"
+  },
+  "SW-K7-TS": {
+    "page": "https://www.k7computing.com/us/home-total-security"
+  },
+  "SW-M365-PERS": {
+    "page": "https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bj"
+  },
+  "SW-QH-TS": {
+    "page": "https://www.quickheal.com/quick-heal-total-security"
+  },
+  "SW-WIN11-HOME": {
+    "page": "https://www.microsoft.com/en-us/windows/windows-11"
+  },
+  "SW-WIN11-PRO": {
+    "page": "https://www.microsoft.com/en-us/windows/business/windows-11-pro"
+  },
+  "TAB-LEN-M11": {
+    "page": "https://www.lenovo.com/us/en/p/tablets/lenovo/lenovo-tab-m-series/lenovo-tab-m11/zac00003us"
+  },
+  "TAB-SS-S9FE": {
+    "page": "https://www.samsung.com/us/tablets/galaxy-tab-s9-fe/"
+  },
+  "UPS-APC-BVX1600": {
+    "page": "https://www.apc.com/in/en/product/BVX1600LI-IN/back-ups-bx-1600va-160-230v-avr-universal-and-iec-sockets/",
+    "note": "Verify exact model code with distributor \u2014 catalogue name may differ slightly from APC's official SKU."
+  },
+  "UPS-APC-BX1100": {
+    "page": "https://www.apc.com/in/en/product/BX1100C-IN/back-ups-1100va-230v-with-avr-universal-sockets/"
+  },
+  "UPS-APC-BX600": {
+    "page": "https://www.apc.com/in/en/product/BX600C-IN/back-ups-600va-230v-avr-universal-sockets/"
+  },
+  "UPS-APC-SRV2K": {
+    "page": "https://www.apc.com/in/en/product/SRV2KI/easy-ups-on-line-2-kva-230v-with-external-battery-pack/"
+  }
+}

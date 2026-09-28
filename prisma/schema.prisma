@@ -1,0 +1,525 @@
+// The Computer Store — data model.
+// Products carry *structured* specifications (SpecDefinition + ProductSpec) that feed the
+// compatibility engine directly. See docs/ARCHITECTURE.md.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ───────────────────────────── Users ─────────────────────────────
+
+enum Role {
+  CUSTOMER
+  ADMIN
+}
+
+model User {
+  id           String         @id @default(cuid())
+  email        String         @unique
+  name         String
+  phone        String?
+  city         String?
+  passwordHash String
+  role         Role           @default(CUSTOMER)
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  builds       Build[]
+  orders       Order[]
+  quotes       Quote[]
+  wishlist     WishlistItem[]
+  addresses    Address[]
+
+  @@map("users")
+}
+
+model Address {
+  id        String  @id @default(cuid())
+  userId    String
+  user      User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  label     String  @default("Home")
+  line1     String
+  line2     String?
+  city      String
+  state     String
+  pincode   String
+  phone     String
+  isDefault Boolean @default(false)
+
+  @@map("addresses")
+}
+
+// ─────────────────────────── Catalogue ───────────────────────────
+
+/// Builder slot a category feeds. null = not a PC-builder component.
+enum BuilderSlot {
+  cpu
+  motherboard
+  cooler
+  ram
+  gpu
+  ssd
+  hdd
+  psu
+  case
+  fans
+  monitor
+  keyboard
+  mouse
+  headset
+  speakers
+  wifi
+  os
+  ups
+  accessories
+}
+
+model Category {
+  id          String           @id @default(cuid())
+  slug        String           @unique
+  name        String
+  shortName   String?
+  description String?
+  group       String           @default("Other") // navigation grouping: Components, Computers, Peripherals…
+  builderSlot BuilderSlot?
+  sortOrder   Int              @default(0)
+  isActive    Boolean          @default(true)
+  parentId    String?
+  parent      Category?        @relation("CategoryTree", fields: [parentId], references: [id])
+  children    Category[]       @relation("CategoryTree")
+  products    Product[]
+  specDefs    SpecDefinition[]
+  seoTitle    String?
+  seoDesc     String?
+
+  @@map("categories")
+}
+
+model Brand {
+  id       String    @id @default(cuid())
+  slug     String    @unique
+  name     String
+  logoUrl  String?
+  products Product[]
+
+  @@map("brands")
+}
+
+enum SpecType {
+  NUMBER
+  TEXT
+  BOOLEAN
+  LIST // comma separated values stored in valueText, e.g. "ATX,mATX,ITX"
+}
+
+/// Per-category specification schema. Drives the admin editor, product pages,
+/// catalogue filters and the compatibility engine.
+model SpecDefinition {
+  id         String        @id @default(cuid())
+  categoryId String
+  category   Category      @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  key        String // machine key read by the engine, e.g. "socket"
+  label      String
+  type       SpecType
+  unit       String?
+  options    String? // comma separated suggestions for TEXT / LIST
+  group      String        @default("Specifications")
+  isKey      Boolean       @default(false) // shown on cards
+  filterable Boolean       @default(false)
+  required   Boolean       @default(false)
+  sortOrder  Int           @default(0)
+  values     ProductSpec[]
+
+  @@unique([categoryId, key])
+  @@map("spec_definitions")
+}
+
+enum ProductStatus {
+  DRAFT
+  ACTIVE
+  ARCHIVED
+}
+
+model Product {
+  id           String            @id @default(cuid())
+  slug         String            @unique
+  sku          String            @unique
+  name         String
+  model        String?
+  shortDesc    String?
+  description  String?
+  categoryId   String
+  category     Category          @relation(fields: [categoryId], references: [id])
+  brandId      String
+  brand        Brand             @relation(fields: [brandId], references: [id])
+  price        Int // selling price, INR, GST inclusive
+  mrp          Int
+  gstRate      Int               @default(18)
+  warranty     String?
+  status       ProductStatus     @default(ACTIVE)
+  isFeatured   Boolean           @default(false)
+  isDeal       Boolean           @default(false)
+  popularity   Int               @default(0)
+  rating       Float?
+  ratingCount  Int               @default(0)
+  searchText   String            @default("") // denormalised name/brand/category/key specs, lower-case
+  releasedAt   DateTime?
+  createdAt    DateTime          @default(now())
+  updatedAt    DateTime          @updatedAt
+  specs        ProductSpec[]
+  images       ProductImage[]
+  inventory    Inventory[]
+  priceHistory PriceHistory[]
+  buildItems   BuildItem[]
+  templateItems BuildTemplateItem[]
+  orderItems   OrderItem[]
+  quoteItems   QuoteItem[]
+  wishlisted   WishlistItem[]
+
+  @@index([categoryId, status])
+  @@index([brandId])
+  @@index([price])
+  @@map("products")
+}
+
+model ProductSpec {
+  id        String         @id @default(cuid())
+  productId String
+  product   Product        @relation(fields: [productId], references: [id], onDelete: Cascade)
+  specId    String
+  spec      SpecDefinition @relation(fields: [specId], references: [id], onDelete: Cascade)
+  valueNum  Float?
+  valueText String?
+  valueBool Boolean?
+
+  @@unique([productId, specId])
+  @@index([specId, valueNum])
+  @@index([specId, valueText])
+  @@map("product_specs")
+}
+
+model ProductImage {
+  id        String  @id @default(cuid())
+  productId String
+  product   Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  url       String
+  alt       String?
+  sortOrder Int     @default(0)
+
+  @@map("product_images")
+}
+
+model Inventory {
+  id        String   @id @default(cuid())
+  productId String
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  location  String   @default("SHILLONG-MAIN")
+  quantity  Int      @default(0)
+  reserved  Int      @default(0)
+  updatedAt DateTime @updatedAt
+
+  @@unique([productId, location])
+  @@map("inventory")
+}
+
+model PriceHistory {
+  id        String   @id @default(cuid())
+  productId String
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  price     Int
+  mrp       Int
+  changedAt DateTime @default(now())
+
+  @@index([productId, changedAt])
+  @@map("prices")
+}
+
+// ──────────────────────────── Builder ────────────────────────────
+
+enum BuildVisibility {
+  PRIVATE
+  UNLISTED
+  PUBLIC
+}
+
+model Build {
+  id          String          @id @default(cuid())
+  code        String          @unique // TC-8F29A4 — used in /build/[code]
+  name        String          @default("My Custom PC")
+  useCase     String?
+  userId      String?
+  user        User?           @relation(fields: [userId], references: [id], onDelete: SetNull)
+  visibility  BuildVisibility @default(UNLISTED)
+  totalPrice  Int             @default(0)
+  estimatedW  Int             @default(0)
+  compatible  Boolean         @default(true)
+  createdAt   DateTime        @default(now())
+  updatedAt   DateTime        @updatedAt
+  items       BuildItem[]
+  quotes      Quote[]
+
+  @@index([userId])
+  @@map("builds")
+}
+
+model BuildItem {
+  id        String      @id @default(cuid())
+  buildId   String
+  build     Build       @relation(fields: [buildId], references: [id], onDelete: Cascade)
+  slot      BuilderSlot
+  productId String
+  product   Product     @relation(fields: [productId], references: [id])
+  quantity  Int         @default(1)
+  unitPrice Int // price at time of saving
+
+  @@unique([buildId, slot])
+  @@map("build_items")
+}
+
+model BuildTemplate {
+  id          String              @id @default(cuid())
+  slug        String              @unique
+  name        String
+  tagline     String?
+  description String?
+  useCase     String // gaming | creator | productivity | workstation | home
+  resolution  String?
+  priceLabel  String? // "₹70K – ₹80K"
+  isShowcase  Boolean             @default(false) // finished-build showcase ("BLACKOUT")
+  accent      String? // hex used for showcase lighting
+  sortOrder   Int                 @default(0)
+  isActive    Boolean             @default(true)
+  items       BuildTemplateItem[]
+
+  @@map("build_templates")
+}
+
+model BuildTemplateItem {
+  id         String        @id @default(cuid())
+  templateId String
+  template   BuildTemplate @relation(fields: [templateId], references: [id], onDelete: Cascade)
+  slot       BuilderSlot
+  productId  String
+  product    Product       @relation(fields: [productId], references: [id])
+  quantity   Int           @default(1)
+
+  @@unique([templateId, slot])
+  @@map("build_template_items")
+}
+
+/// Configuration for a rule in src/lib/compat/rules.ts. The logic lives in code; the
+/// switches, severities and thresholds live here so admins can tune them.
+model CompatibilityRule {
+  id          String   @id // matches rule id in code, e.g. "cpu-motherboard-socket"
+  title       String
+  description String?
+  enabled     Boolean  @default(true)
+  severity    String? // override: "error" | "warning" | "info"
+  params      Json     @default("{}")
+  updatedAt   DateTime @updatedAt
+
+  @@map("compatibility_rules")
+}
+
+model HomeSlide {
+  id        String   @id @default(cuid())
+  imageUrl  String
+  title     String?
+  subtitle  String?
+  linkUrl   String?
+  sortOrder Int      @default(0)
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+
+  @@map("home_slides")
+}
+
+model Setting {
+  key       String   @id // "scoring", "power", "autobuild", "home"
+  value     Json
+  updatedAt DateTime @updatedAt
+
+  @@map("settings")
+}
+
+// ───────────────────────── Sales & quotes ────────────────────────
+
+enum QuoteStatus {
+  NEW
+  CONTACTED
+  QUOTED
+  CONFIRMED
+  COMPLETED
+  CANCELLED
+}
+
+enum QuoteSource {
+  REQUEST // customer asked to be contacted
+  DOWNLOAD // customer generated a PDF quotation themselves
+}
+
+model Quote {
+  id             String      @id @default(cuid())
+  number         String      @unique // TCS-Q-2026-000123
+  source         QuoteSource @default(REQUEST)
+  status         QuoteStatus @default(NEW)
+  name           String
+  phone          String?
+  email          String?
+  city           String?
+  contactMethod  String? // whatsapp | phone | email
+  buildName      String?
+  budget         Int?
+  requirements   String?
+  adminNotes     String?
+  subtotal       Int
+  mrpTotal       Int
+  gstTotal       Int
+  compatible     Boolean     @default(true)
+  estimatedW     Int?
+  recommendedW   Int?
+  userId         String?
+  user           User?       @relation(fields: [userId], references: [id], onDelete: SetNull)
+  buildId        String?
+  build          Build?      @relation(fields: [buildId], references: [id], onDelete: SetNull)
+  createdAt      DateTime    @default(now())
+  updatedAt      DateTime    @updatedAt
+  items          QuoteItem[]
+
+  @@index([status, createdAt])
+  @@map("quotes")
+}
+
+model QuoteItem {
+  id        String   @id @default(cuid())
+  quoteId   String
+  quote     Quote    @relation(fields: [quoteId], references: [id], onDelete: Cascade)
+  productId String?
+  product   Product? @relation(fields: [productId], references: [id], onDelete: SetNull)
+  slot      String?
+  name      String
+  model     String?
+  quantity  Int
+  unitPrice Int
+  unitMrp   Int
+  gstRate   Int
+
+  @@map("quote_items")
+}
+
+enum OrderStatus {
+  PENDING
+  CONFIRMED
+  PROCESSING
+  READY
+  SHIPPED
+  DELIVERED
+  CANCELLED
+}
+
+enum PaymentStatus {
+  UNPAID
+  PAID
+  REFUNDED
+  FAILED
+}
+
+model Order {
+  id              String        @id @default(cuid())
+  number          String        @unique // TCS-2026-000123
+  userId          String?
+  user            User?         @relation(fields: [userId], references: [id], onDelete: SetNull)
+  status          OrderStatus   @default(PENDING)
+  paymentStatus   PaymentStatus @default(UNPAID)
+  paymentProvider String        @default("pay_at_store")
+  paymentRef      String?
+  fulfilment      String        @default("pickup") // pickup | delivery
+  name            String
+  phone           String
+  email           String
+  addressLine     String?
+  city            String?
+  state           String?
+  pincode         String?
+  notes           String?
+  couponCode      String?
+  subtotal        Int
+  discount        Int           @default(0)
+  gstTotal        Int
+  shipping        Int           @default(0)
+  total           Int
+  assembly        Boolean       @default(false)
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+  items           OrderItem[]
+
+  @@index([status, createdAt])
+  @@map("orders")
+}
+
+model OrderItem {
+  id         String   @id @default(cuid())
+  orderId    String
+  order      Order    @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  productId  String?
+  product    Product? @relation(fields: [productId], references: [id], onDelete: SetNull)
+  name       String
+  quantity   Int
+  unitPrice  Int
+  gstRate    Int
+  buildGroup String? // items that belong to one custom PC share a group label
+
+  @@map("order_items")
+}
+
+model WishlistItem {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  productId String
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, productId])
+  @@map("wishlists")
+}
+
+enum CouponType {
+  PERCENT
+  FLAT
+}
+
+model Coupon {
+  id          String     @id @default(cuid())
+  code        String     @unique
+  description String?
+  type        CouponType
+  value       Int
+  minOrder    Int        @default(0)
+  maxDiscount Int?
+  startsAt    DateTime?
+  endsAt      DateTime?
+  usageLimit  Int?
+  usedCount   Int        @default(0)
+  isActive    Boolean    @default(true)
+  createdAt   DateTime   @default(now())
+
+  @@map("coupons")
+}
+
+model ContactMessage {
+  id        String   @id @default(cuid())
+  name      String
+  phone     String?
+  email     String?
+  topic     String?
+  message   String
+  handled   Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  @@map("contact_messages")
+}

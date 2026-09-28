@@ -1,0 +1,289 @@
+{
+  "amd": {
+    "file": "/brands/amd.svg",
+    "source": "https://simpleicons.org/?q=amd",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "wordmark",
+    "aspect": 3.952
+  },
+  "intel": {
+    "file": "/brands/intel.svg",
+    "source": "https://simpleicons.org/?q=intel",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "wordmark",
+    "aspect": 2.461
+  },
+  "nvidia": {
+    "file": "/brands/nvidia.svg",
+    "source": "https://simpleicons.org/?q=nvidia",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1.474
+  },
+  "asus": {
+    "file": "/brands/asus.svg",
+    "source": "https://simpleicons.org/?q=asus",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "wordmark",
+    "aspect": 4.554
+  },
+  "msi": {
+    "file": "/brands/msi.svg",
+    "source": "https://simpleicons.org/?q=msi",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1
+  },
+  "corsair": {
+    "file": "/brands/corsair.svg",
+    "source": "https://simpleicons.org/?q=corsair",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1
+  },
+  "samsung": {
+    "file": "/brands/samsung.svg",
+    "source": "https://simpleicons.org/?q=samsung",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "wordmark",
+    "aspect": 6.129
+  },
+  "seagate": {
+    "file": "/brands/seagate.svg",
+    "source": "https://simpleicons.org/?q=seagate",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1
+  },
+  "nzxt": {
+    "file": "/brands/nzxt.svg",
+    "source": "https://simpleicons.org/?q=nzxt",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "wordmark",
+    "aspect": 3.699
+  },
+  "deepcool": {
+    "file": "/brands/deepcool.svg",
+    "source": "https://simpleicons.org/?q=deepcool",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1
+  },
+  "cooler-master": {
+    "file": "/brands/cooler-master.svg",
+    "source": "https://simpleicons.org/?q=coolermaster",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1.247
+  },
+  "razer": {
+    "file": "/brands/razer.svg",
+    "source": "https://simpleicons.org/?q=razer",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1
+  },
+  "hyperx": {
+    "file": "/brands/hyperx.svg",
+    "source": "https://simpleicons.org/?q=hyperx",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1.717
+  },
+  "redragon": {
+    "file": "/brands/redragon.svg",
+    "source": "https://simpleicons.org/?q=redragon",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1.476
+  },
+  "tp-link": {
+    "file": "/brands/tp-link.svg",
+    "source": "https://simpleicons.org/?q=tplink",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1
+  },
+  "acer": {
+    "file": "/brands/acer.svg",
+    "source": "https://simpleicons.org/?q=acer",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "wordmark",
+    "aspect": 3.919
+  },
+  "hp": {
+    "file": "/brands/hp.svg",
+    "source": "https://simpleicons.org/?q=hp",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1
+  },
+  "dell": {
+    "file": "/brands/dell.svg",
+    "source": "https://simpleicons.org/?q=dell",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "symbol",
+    "aspect": 1
+  },
+  "lenovo": {
+    "file": "/brands/lenovo.svg",
+    "source": "https://simpleicons.org/?q=lenovo",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "wordmark",
+    "aspect": 2.848
+  },
+  "lg": {
+    "file": "/brands/lg.svg",
+    "source": "https://simpleicons.org/?q=lg",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "wordmark",
+    "aspect": 2.175
+  },
+  "epson": {
+    "file": "/brands/epson.svg",
+    "source": "https://simpleicons.org/?q=epson",
+    "license": "CC0-1.0 (Simple Icons)",
+    "kind": "wordmark",
+    "aspect": 3.919
+  },
+  "gigabyte": {
+    "aspect": 7.849,
+    "file": "/brands/gigabyte.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Gigabyte_Technology_logo_20080107.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "zotac": {
+    "aspect": 5.393,
+    "file": "/brands/zotac.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_Zotac_International.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "sapphire": {
+    "aspect": 8.091,
+    "file": "/brands/sapphire.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sapphire_wordmark.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "powercolor": {
+    "aspect": 7.665,
+    "file": "/brands/powercolor.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Powercolor_2024_logo.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "western-digital": {
+    "aspect": 8.948,
+    "file": "/brands/western-digital.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Western_Digital_logo_(2025).svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "lian-li": {
+    "aspect": 4.494,
+    "file": "/brands/lian-li.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lian_Li_logo.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "noctua": {
+    "aspect": 5.951,
+    "file": "/brands/noctua.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Noctua_wordmark.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "thermalright": {
+    "aspect": 12.026,
+    "file": "/brands/thermalright.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Thermalright_Logo.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "fractal-design": {
+    "aspect": 3.236,
+    "file": "/brands/fractal-design.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fractal_Design_logo_2019.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "logitech": {
+    "aspect": 5.674,
+    "file": "/brands/logitech.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Logitech_Logo_2012.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "keychron": {
+    "aspect": 4.61,
+    "file": "/brands/keychron.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Keychron_logo.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "creative": {
+    "aspect": 4.409,
+    "file": "/brands/creative.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Creative_Technology_logo.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "edifier": {
+    "aspect": 4.455,
+    "file": "/brands/edifier.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Edifier_Logo.svg",
+    "license": "CC0",
+    "kind": "wordmark"
+  },
+  "d-link": {
+    "aspect": 4.975,
+    "file": "/brands/d-link.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:D-Link_wordmark.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "hikvision": {
+    "aspect": 7.496,
+    "file": "/brands/hikvision.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hikvision_logo.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "apc": {
+    "aspect": 2.253,
+    "file": "/brands/apc.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:APC-logo.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "microsoft": {
+    "aspect": 4.689,
+    "file": "/brands/microsoft.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "canon": {
+    "aspect": 4.781,
+    "file": "/brands/canon.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Canon_wordmark.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "sandisk": {
+    "aspect": 9.252,
+    "file": "/brands/sandisk.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:SanDisk_2024_logo.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  },
+  "brother": {
+    "aspect": 4.141,
+    "file": "/brands/brother.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brother_logo.svg",
+    "license": "Public domain",
+    "kind": "wordmark"
+  }
+}
