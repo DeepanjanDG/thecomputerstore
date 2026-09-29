@@ -582,5 +582,757 @@
     "bg": "#ffffff",
     "source": "https://static.gigabyte.com/StaticFile/Image/Global/45fe8e5fb60e92776eeee70a1930ebf6/ProductRemoveBg/44873",
     "page": "https://www.gigabyte.com/Graphics-Card/GV-N506TWF2OC-16GD"
+  },
+  "ACC-LOGI-DESKMAT": {
+    "file": "/products/acc-logi-deskmat.webp",
+    "width": 544,
+    "height": 466,
+    "bg": "#ffffff",
+    "source": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/desk-mat-studio-series/gallery/2026-update/logitech-desk-mat-studio-series-dark-rose-top-angle-gallery-1.png",
+    "page": "https://www.logitech.com/en-eu/shop/p/desk-mat-studio-series"
+  },
+  "ACC-SG-OT-2T": {
+    "file": "/products/acc-sg-ot-2t.webp",
+    "width": 640,
+    "height": 640,
+    "bg": "#596884",
+    "source": "https://www.seagate.com/content/dam/seagate/assets/products/external-hard-drives/one-touch-external-drives/images/one-touch-hdd-seo-updates-row-3-1440x1080.png/_jcr_content/renditions/1-1-medium-416x416.png",
+    "page": "https://www.seagate.com/products/external-hard-drives/one-touch-external-drives/"
+  },
+  "ACC-SS-T7-1T": {
+    "file": "/products/acc-ss-t7-1t.webp",
+    "width": 1164,
+    "height": 776,
+    "bg": "#ffffff",
+    "source": "https://images.samsung.com/is/image/samsung/sg-portable-ssd-t7-mu-pc1t0t-ww-frontgray-285835384?$1164_776_PNG$",
+    "page": "https://www.samsung.com/sg/memory-storage/portable-ssd/portable-ssd-t7-1tb-gray-mu-pc1t0t-ww/"
+  },
+  "CASE-ANT-ICE112": {
+    "file": "/products/case-ant-ice112.webp",
+    "width": 600,
+    "height": 600,
+    "bg": "#ffffff",
+    "source": "https://elitehubs.com/cdn/shop/files/ice-112-image-main-600x600.webp?v=1695303746",
+    "page": "https://antesports.com/product/ant-esports-ice-112-gaming-cabinet-black/"
+  },
+  "CASE-CM-Q300L": {
+    "file": "/products/case-cm-q300l.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Sites-cooler-master-main/default/dwf7ababb2/Assets/masterbox-q300l/large/gallery-1-min.png",
+    "page": "https://www.coolermaster.com/en-us/products/masterbox-q300l/"
+  },
+  "CASE-COR-4000D": {
+    "file": "/products/case-cor-4000d.webp",
+    "width": 1100,
+    "height": 1100,
+    "bg": "#ffffff",
+    "source": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Cases/base-4000d-airflow-config/Gallery/4000D_AF_BLACK_01.webp",
+    "page": "https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww"
+  },
+  "CASE-DC-CH560": {
+    "file": "/products/case-dc-ch560.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#141414",
+    "source": "https://cdn.deepcool.com/public/Global-images/products/Cases/2023/07/CH560_DIGITAL.jpg?auto=format,compress&q=90",
+    "page": "https://www.deepcool.com/products/Cases/CH560-DIGITAL-Airflow-Case-With-Status-Screen/2023/17174.shtml"
+  },
+  "CASE-LL-O11EVO": {
+    "file": "/products/case-ll-o11evo.webp",
+    "width": 600,
+    "height": 600,
+    "bg": "#ffffff",
+    "source": "https://lian-li.com/wp-content/uploads/2021/12/evo-600-000.jpg",
+    "page": "https://www.lian-li.com/product/o11-dynamic-evo/"
+  },
+  "CASE-MT-AIR903": {
+    "file": "/products/case-mt-air903.webp",
+    "width": 640,
+    "height": 894,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/AK91S2308110FJ99WD3.jpg",
+    "page": "https://www.montechpc.com/air-903-max"
+  },
+  "CCTV-CP-DOME2": {
+    "file": "/products/cctv-cp-dome2.webp",
+    "width": 800,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://cdn.moglix.com/p/EhF28hIuffxR3-xxlarge.jpg",
+    "page": "https://www.cpplusworld.com/product/cp-usc-da24pl2-w280-d-5"
+  },
+  "CCTV-CP-DVR8": {
+    "file": "/products/cctv-cp-dvr8.webp",
+    "width": 400,
+    "height": 520,
+    "bg": "#ffffff",
+    "source": "https://fgtechstore.com/wp-content/uploads/2025/10/1-104.jpg",
+    "page": "https://fgtechstore.com/product/cp-plus-cp-uvr-0801e1-hc/"
+  },
+  "CCTV-HIK-BULLET2": {
+    "file": "/products/cctv-hik-bullet2.webp",
+    "width": 1000,
+    "height": 1000,
+    "bg": "#ffffff",
+    "source": "https://i0.wp.com/www.hikvision-singapore.com/wp-content/uploads/2023/11/DS-2CD1023G2-LIU.jpg",
+    "page": "https://www.hikvision.com/en/products/IP-Products/Network-Cameras/value-series/ds-2cd1023g2-liu-f-/"
+  },
+  "CCTV-HIK-NVR4": {
+    "file": "/products/cctv-hik-nvr4.webp",
+    "width": 600,
+    "height": 600,
+    "bg": "#ffffff",
+    "source": "https://planetsecurityusa.com/cdn/shop/products/DS-7604NI-K14P_B_02_4e69d150-0273-4a0f-a73a-3cf305cff94b_600x_crop_center.jpg?v=1650373427",
+    "page": "https://planetsecurityusa.com/products/hikvision-ds-7604ni-k1-4pb-4-ch-1u-4-poe-4k-nvr"
+  },
+  "CHR-DXR-FORMULA": {
+    "file": "/products/chr-dxr-formula.webp",
+    "width": 1200,
+    "height": 750,
+    "bg": "#ffffff",
+    "source": "https://nex-img.dxracer.cc/20001/95b02b09-f730-41f2-b531-6b45c6e01a98-1.png?imageView2/2/format/webp/interlace/1",
+    "page": "https://www.dxracer.com/products/gaming-chairs/formula?sku=GC%2FLFD23FBCFBB%2FGW"
+  },
+  "CL-ARC-LF3-240": {
+    "file": "/products/cl-arc-lf3-240.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://www.arctic.de/media/73/39/0a/1725362018/Liquid_Freezer_III_240_Black_G01_eha_3_awards.png",
+    "page": "https://www.arctic.de/us/Liquid-Freezer-III-240/ACFRE00134A"
+  },
+  "CL-CM-212-V3": {
+    "file": "/products/cl-cm-212-v3.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Sites-cooler-master-main/default/dw8e4028e9/Assets/hyper-212-spectrum-v3/large/hyper-212-spectrum-v301-gallery-01-png.png",
+    "page": "https://www.coolermaster.com/en-global/products/hyper-212-spectrum-v3.html"
+  },
+  "CL-DC-AK400": {
+    "file": "/products/cl-dc-ak400.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#32546f",
+    "source": "https://cdn.deepcool.com/public/Global-images/products/Cooling/cpuaircoolers/2022/03/AK_400.jpg?auto=format,compress&q=90",
+    "page": "https://global.deepcool.com/products/Cooling/cpuaircoolers/AK400-Performance-CPU-Cooler-1851-1700-AM5/2024/15222.shtml"
+  },
+  "CL-DC-AK620D": {
+    "file": "/products/cl-dc-ak620d.webp",
+    "width": 1200,
+    "height": 675,
+    "bg": "#737377",
+    "source": "https://cdn.deepcool.com/public/Global-images/products/Cooling/cpuaircoolers/2023/05/AK620_DIGITAL.jpg?auto=format,compress&q=90",
+    "page": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK620-Digital-Performance-CPU-Cooler-With-Status-Display-1851-1700-AM5/2024/17202.shtml"
+  },
+  "CL-LL-GAL2-360": {
+    "file": "/products/cl-ll-gal2-360.webp",
+    "width": 600,
+    "height": 600,
+    "bg": "#ffffff",
+    "source": "https://lian-li.com/wp-content/uploads/2023/06/360gal_t_p_w.jpg",
+    "page": "https://lian-li.com/product/galahad-ii-trinity-performance/"
+  },
+  "CL-NOC-D15G2": {
+    "file": "/products/cl-noc-d15g2.webp",
+    "width": 640,
+    "height": 627,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/AADYS2407010J63FDFA.jpg",
+    "page": "https://www.noctua.at/en/products/nh-d15-g2"
+  },
+  "CL-NOC-L12S": {
+    "file": "/products/cl-noc-l12s.webp",
+    "width": 640,
+    "height": 383,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/AADY_131504710147913939dt3BoXTedP.jpg",
+    "page": "https://www.noctua.at/en/products/nh-l12s"
+  },
+  "CL-NZXT-K360": {
+    "file": "/products/cl-nzxt-k360.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://nzxt.com/cdn/shop/files/ke360rgb-v2_white_01_hero.png?v=1789335594&width=2000",
+    "page": "https://nzxt.com/products/kraken-360-elite-rgb-1"
+  },
+  "CL-TR-PA120SE": {
+    "file": "/products/cl-tr-pa120se.webp",
+    "width": 800,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://www.thermalright.com/wp-content/uploads/2026/08/peerless-assassin-120-se.png",
+    "page": "https://www.thermalright.com/product/peerless-assassin-120-se/"
+  },
+  "CPU-I3-12100F": {
+    "file": "/products/cpu-i3-12100f.webp",
+    "width": 640,
+    "height": 668,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/19-118-357-03.jpg",
+    "page": "https://www.intel.com/content/www/us/en/products/sku/132223/intel-core-i312100f-processor-12m-cache-up-to-4-30-ghz/specifications.html"
+  },
+  "CPU-I5-14400F": {
+    "file": "/products/cpu-i5-14400f.webp",
+    "width": 640,
+    "height": 694,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/19-118-489-01.jpg",
+    "page": "https://www.intel.com/content/www/us/en/products/sku/236777/intel-core-i5-processor-14400f-20m-cache-up-to-4-70-ghz/specifications.html"
+  },
+  "DT-DELL-OPTI7020": {
+    "file": "/products/dt-dell-opti7020.webp",
+    "width": 640,
+    "height": 751,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/V0F3D2411050UT5WGFA.jpg",
+    "page": "https://www.dell.com/en-us/shop/desktop-computers/optiplex-tower/spd/optiplex-7020t-desktop"
+  },
+  "DT-LEN-AIO3": {
+    "file": "/products/dt-len-aio3.webp",
+    "width": 640,
+    "height": 513,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/A8X5S2309300VFVRPC9.jpg",
+    "page": "https://www.lenovo.com/us/en/p/desktops/ideacentre/ideacentre-aio-3-series/ideacentre-aio-3-27-amd-gen-9/len101i0068"
+  },
+  "FAN-ARC-P12-5": {
+    "file": "/products/fan-arc-p12-5.webp",
+    "width": 1000,
+    "height": 1000,
+    "bg": "#ffffff",
+    "source": "https://www.arctic.de/media/7a/e8/4b/1600084911/P12_PWM_PST_Value_Pack_G00_Award_%281%29.png",
+    "page": "https://www.arctic.de/en/P12-PWM-PST-Value-Pack/ACFAN00120A"
+  },
+  "FAN-DC-FC120-3": {
+    "file": "/products/fan-dc-fc120-3.webp",
+    "width": 640,
+    "height": 552,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/35-856-244-01.jpg",
+    "page": "https://www.deepcool.com/products/Cooling/fans/FC120-3-IN-1-Daisy-Chain-Performance-ARGB-Fan/2021/13582.shtml"
+  },
+  "FAN-LL-SLINF-3": {
+    "file": "/products/fan-ll-slinf-3.webp",
+    "width": 640,
+    "height": 386,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/AFSTS220602V5w3w.jpg",
+    "page": "https://www.lian-li.com/product/uni-fan-sl-inf-120/"
+  },
+  "FAN-NOC-A14": {
+    "file": "/products/fan-noc-a14.webp",
+    "width": 640,
+    "height": 845,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/AADYS211108UB13c.jpg",
+    "page": "https://noctua.at/en/nf-a14-pwm"
+  },
+  "GL-ACER-NITROV15": {
+    "file": "/products/gl-acer-nitrov15.webp",
+    "width": 640,
+    "height": 459,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/A8X5S2405221120CZ13.jpg",
+    "page": "https://www.acer.com/us-en/laptops/nitro/nitro-v-15/pdp/NH.QN9AA.001"
+  },
+  "GPU-PC-9070XT-16G": {
+    "file": "/products/gpu-pc-9070xt-16g.webp",
+    "width": 1200,
+    "height": 794,
+    "bg": "#000000",
+    "source": "https://powercolor.com/Upload/images/product/RX%209000%20Series/AMD/242762602-F-00-HERO-en-HH.jpg",
+    "page": "https://www.powercolor.com/product-detail211.htm"
+  },
+  "GPU-SAP-7600-8G": {
+    "file": "/products/gpu-sap-7600-8g.webp",
+    "width": 800,
+    "height": 500,
+    "bg": "#f6f6f6",
+    "source": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11324_01_rx7600_pulse_8ggddr6/11324_01_rx7600_pulse_8gbgddr6_c01_800x500.ashx",
+    "page": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-7600-8g-gddr6"
+  },
+  "GPU-SAP-9060XT-16G": {
+    "file": "/products/gpu-sap-9060xt-16g.webp",
+    "width": 800,
+    "height": 500,
+    "bg": "#f6f6f6",
+    "source": "https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/pim/product-images/11350_03_rx9060xt_pulse_16ggddr6/rx9060xt_pulse_16gb_photo_c01_800x500.ashx",
+    "page": "https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-9060-xt-16g-gddr6"
+  },
+  "GPU-ZT-3050-6G": {
+    "file": "/products/gpu-zt-3050-6g.webp",
+    "width": 500,
+    "height": 500,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/412JYLwx3eL.jpg",
+    "page": "https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-rtx-3050-6gb-gddr6-twin-edge"
+  },
+  "GPU-ZT-4070-12G": {
+    "file": "/products/gpu-zt-4070-12g.webp",
+    "width": 500,
+    "height": 500,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/41i3L5tbxpL.jpg",
+    "page": "https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-rtx-4070-twin-edge-oc"
+  },
+  "HDD-SG-BC-1T": {
+    "file": "/products/hdd-sg-bc-1t.webp",
+    "width": 640,
+    "height": 640,
+    "bg": "#007500",
+    "source": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/hard-drives/barracuda-hard-drive/_shared/images/row-4-640x640.jpg",
+    "page": "https://www.seagate.com/products/hard-drives/barracuda-hard-drive/"
+  },
+  "HDD-SG-BC-2T": {
+    "file": "/products/hdd-sg-bc-2t.webp",
+    "width": 640,
+    "height": 640,
+    "bg": "#007500",
+    "source": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/hard-drives/barracuda-hard-drive/_shared/images/row-4-640x640.jpg",
+    "page": "https://www.seagate.com/products/hard-drives/barracuda-hard-drive/"
+  },
+  "HDD-SG-IW-8T": {
+    "file": "/products/hdd-sg-iw-8t.webp",
+    "width": 1000,
+    "height": 1000,
+    "bg": "#ffffff",
+    "source": "https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/products/nas-drives/ironwolf-hard-drive/_shared/images/ironwolf-8tb-front-product-detail-image.png",
+    "page": "https://www.seagate.com/products/nas-drives/ironwolf-hard-drive/"
+  },
+  "HDD-WD-BLUE-4T": {
+    "file": "/products/hdd-wd-blue-4t.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-blue-desktop-sata-hdd/gallery/wd-blue-pc-desktop-hard-drive-1tb.png",
+    "page": "https://www.westerndigital.com/products/internal-drives/wd-blue-desktop-sata-hdd?sku=WD40EZAX"
+  },
+  "HS-HX-CLOUD3": {
+    "file": "/products/hs-hx-cloud3.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://hyperx.com/cdn/shop/files/hyperx_cloud_iii_red_66x0049_main_1_c34cc86e-20fb-464e-99c2-c898f103089b.jpg",
+    "page": "https://hyperx.com/products/hyperx-cloud-iii-wired-gaming-headset"
+  },
+  "HS-LOGI-G435": {
+    "file": "/products/hs-logi-g435.webp",
+    "width": 1200,
+    "height": 1037,
+    "bg": "#ffffff",
+    "source": "https://resource.logitechg.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g435/2025/gallery/g435-3qtr-front-left-angle-black-gallery-1.png",
+    "page": "https://www.logitechg.com/en-us/shop/p/g435-wireless-bluetooth-gaming-headset"
+  },
+  "KB-RD-K552": {
+    "file": "/products/kb-rd-k552.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://redragonshop.com/cdn/shop/products/redragonk552.png",
+    "page": "https://redragonshop.com/products/redragon-kumara-k552"
+  },
+  "KB-RZ-BWV4X": {
+    "file": "/products/kb-rz-bwv4x.webp",
+    "width": 1200,
+    "height": 438,
+    "bg": "#040404",
+    "source": "https://assets2.razerzone.com/images/pnx.assets/f588fc5b6f7b0378be5e070bef614c30/razer-blackwidow-v4-x-hero-desktop.webp",
+    "page": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-x"
+  },
+  "LAP-ACER-ALITE-R5": {
+    "file": "/products/lap-acer-alite-r5.webp",
+    "width": 500,
+    "height": 500,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/415Fo6Vz9VL.jpg",
+    "page": "https://www.amazon.in/5-5625U-Premium-Windows-AL15-41-Display/dp/B0DG2GCTD7"
+  },
+  "MB-GB-B450M-DS3H": {
+    "file": "/products/mb-gb-b450m-ds3h.webp",
+    "width": 500,
+    "height": 375,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/411a2DoAy+L.jpg",
+    "page": "https://www.amazon.com/GIGABYTE-B450M-DS3H-Ryzen-Motherboard/dp/B07FWVJSHC"
+  },
+  "MB-GB-B650I-ULTRA": {
+    "file": "/products/mb-gb-b650i-ultra.webp",
+    "width": 500,
+    "height": 375,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/416EZs8BnHL.jpg",
+    "page": "https://www.amazon.com/GIGABYTE-B650I-AORUS-Mini-ITX-Motherboard/dp/B083R826VW"
+  },
+  "MON-DELL-S2722QC": {
+    "file": "/products/mon-dell-s2722qc.webp",
+    "width": 829,
+    "height": 804,
+    "bg": "#b5b5b6",
+    "source": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/s2722qc/media-gallery/s2722qc_cfp_00025rf095_gy.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=829&qlt=100,1&resMode=sharp2&size=829,804&chrss=full",
+    "page": "https://www.dell.com/en-us/shop/dell-27-4k-uhd-usb-c-monitor-s2722qc/apd/210-bbqt/monitors-monitor-accessories"
+  },
+  "MON-LG-24GS60F": {
+    "file": "/products/mon-lg-24gs60f.webp",
+    "width": 730,
+    "height": 730,
+    "bg": "#ffffff",
+    "source": "https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/eb69791e-e42c-4324-9579-a72c4666cfe6/Monitor_24GS60F-B_gallery_01_5000x5000?io=transform:fill,width:1536",
+    "page": "https://www.lg.com/us/monitors/lg-24gs60f-b-gaming-monitor"
+  },
+  "MON-LG-27GR93U": {
+    "file": "/products/mon-lg-27gr93u.webp",
+    "width": 730,
+    "height": 730,
+    "bg": "#ffffff",
+    "source": "https://media.us.lg.com/transform/ecomm-PDPGallery-1100x730/96a02345-d157-4e79-96ee-28354d0d2627/27GR93U-B_01_gallery_3000x3000?io=transform:fill,width:1536",
+    "page": "https://www.lg.com/us/monitors/lg-27gr93u-b-gaming-monitor"
+  },
+  "MON-SS-G5-32": {
+    "file": "/products/mon-ss-g5-32.webp",
+    "width": 1200,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://images.samsung.com/is/image/samsung/p6pim/us/ls32cg552enxza/gallery/us-gaming-ls32cg552enxza-odyssey-g--g--c-qhd----hz-curved-gaming-monitor-black-552003913?$product-details-jpg$",
+    "page": "https://www.samsung.com/us/monitors/gaming/32-inch-odyssey-g55c-qhd-165hz-1ms-mprt-curved-gaming-monitor-sku-ls32cg552enxza/"
+  },
+  "MON-SS-OLEDG6": {
+    "file": "/products/mon-ss-oledg6.webp",
+    "width": 1200,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://images.samsung.com/is/image/samsung/p6pim/us/ls27fg602snxza/gallery/us-gaming-ls27fg602snxza----inch-odyssey-oled-g--g--sf-silver-552002805?$product-details-jpg$",
+    "page": "https://www.samsung.com/us/monitors/gaming/27-inch-odyssey-oled-g6-g60sf-qhd-500hz-gaming-monitor-sku-ls27fg602snxza/"
+  },
+  "MS-LOGI-G102": {
+    "file": "/products/ms-logi-g102.webp",
+    "width": 544,
+    "height": 466,
+    "bg": "#ffffff",
+    "source": "https://resource.logitechg.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/refreshed-g203/2025-update/g203-mouse-top-angle-black-gallery-1.png",
+    "page": "https://www.logitechg.com/en-my/shop/p/g102-lightsync-rgb-gaming-mouse"
+  },
+  "MS-LOGI-G304": {
+    "file": "/products/ms-logi-g304.webp",
+    "width": 544,
+    "height": 466,
+    "bg": "#ffffff",
+    "source": "https://resource.logitechg.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g305/2025-update/g305-lightspeed-mouse-top-angle-black-gallery-1.png",
+    "page": "https://www.logitechg.com/en-my/shop/p/g304-lightspeed-wireless-gaming-mouse"
+  },
+  "NET-TPL-SG1008D": {
+    "file": "/products/net-tpl-sg1008d.webp",
+    "width": 590,
+    "height": 443,
+    "bg": "#ffffff",
+    "source": "https://static.tp-link.com/TL-SG1008D(UN)8.0-01_1499930939948d.jpg",
+    "page": "https://www.tp-link.com/us/home-networking/8-port-switch/tl-sg1008d/"
+  },
+  "NET-TPL-TX20E": {
+    "file": "/products/net-tpl-tx20e.webp",
+    "width": 1000,
+    "height": 1000,
+    "bg": "#ffffff",
+    "source": "https://static.tp-link.com/upload/image-line/01_large_20221129065630q.jpg",
+    "page": "https://www.tp-link.com/us/home-networking/pci-adapter/archer-tx20e/"
+  },
+  "NET-TPL-TXE72E": {
+    "file": "/products/net-tpl-txe72e.webp",
+    "width": 590,
+    "height": 590,
+    "bg": "#ffffff",
+    "source": "https://static.tp-link.com/upload/image-line/Archer_TXE72E_EU_1.0_1_normal_20220512021400i.jpg",
+    "page": "https://www.tp-link.com/us/home-networking/pci-adapter/archer-txe72e/"
+  },
+  "PRN-BR-L2321D": {
+    "file": "/products/prn-br-l2321d.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://www.brother.in/-/media/36ae317a2e9f49c39fe652d16ca2eb53.png",
+    "page": "https://www.brother.in/en/printers/all-printers/hl-l2321d"
+  },
+  "PRN-BR-T426W": {
+    "file": "/products/prn-br-t426w.webp",
+    "width": 1052,
+    "height": 1052,
+    "bg": "#ffffff",
+    "source": "https://www.brother.in/-/media/ad2f13711e6249cdb43fe54ecddc962e.png?as=0&h=1052&w=1052&rev=4d1b804e76c545dba8616468fb0a15d9&hash=D77E706B8935C922C30D4A2B9E95A8F3",
+    "page": "https://www.brother.in/en/printers/all-printers/dcp-t426w"
+  },
+  "PRN-CN-G3770": {
+    "file": "/products/prn-cn-g3770.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://in.canon/media/image/2024/08/21/4401e6b94fc245ffa14a95dcdfb9b73f_G3X70_%7E2.jpg",
+    "page": "https://in.canon/en/consumer/pixma-g3770"
+  },
+  "PRN-EP-L3250": {
+    "file": "/products/prn-ep-l3250.webp",
+    "width": 690,
+    "height": 460,
+    "bg": "#ffffff",
+    "source": "https://mediaserver.goepson.com/adaptivemedia/rendition?id=daa964d607720c9407027bcc4db455594a5477b6&vid=daa964d607720c9407027bcc4db455594a5477b6&prid=1200Wx1200H&clid=SAPDAM&prclid=banner&assetDescr=EcoTank-L3250-690x460-1",
+    "page": "https://epson.com.jm/For-Home/Printers/Inkjet/Epson-EcoTank-L3250-Multifunction-Printer/p/C11CJ67301"
+  },
+  "PRN-TVS-RP3160": {
+    "file": "/products/prn-tvs-rp3160.webp",
+    "width": 1200,
+    "height": 1090,
+    "bg": "#ffffff",
+    "source": "https://store.tvselectronics.in/cdn/shop/products/014-_1_e95d0462-7a79-4546-8f5e-06641cab2535_1024x1024@2x.png?v=1666852100",
+    "page": "https://store.tvselectronics.in/products/rp3160-gold-thermal-receipt-printer"
+  },
+  "PSU-CM-MWE750G": {
+    "file": "/products/psu-cm-mwe750g.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Sites-cooler-master-main/default/dw4bc86526/Assets/mwe-gold-750-v2-full-modular/large/mwe-gold-750-v2-full-modular-gallery-1.png",
+    "page": "https://www.coolermaster.com/en-us/products/mwe-gold-750-v2-full-modular/"
+  },
+  "PSU-CM-V850SFX": {
+    "file": "/products/psu-cm-v850sfx.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://www.coolermaster.com/dw/image/v2/BMJD_PRD/on/demandware.static/-/Sites-cooler-master-main/default/dw0abb686f/Assets/v-sfx-gold-850-atx-3/large/v850-sfx-gold-atx3-gallery-1-0824.png",
+    "page": "https://www.coolermaster.com/en-us/products/v-sfx-gold-850-atx-3.html"
+  },
+  "PSU-COR-CX650": {
+    "file": "/products/psu-cor-cx650.webp",
+    "width": 1100,
+    "height": 1100,
+    "bg": "#ffffff",
+    "source": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Power-Supply-Units/base-cx-series-2023-config/CX650/CX650_01.png",
+    "page": "https://www.corsair.com/us/en/p/psu/cp-9020278-na/cx-series-cx650-650-watt-80-plus-bronze-atx-power-supply-cp-9020278-na"
+  },
+  "PSU-COR-HX1500I": {
+    "file": "/products/psu-cor-hx1500i.webp",
+    "width": 1100,
+    "height": 1100,
+    "bg": "#ffffff",
+    "source": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Power-Supply-Units/base-hxi-2023-config/1000W/CP-9020259/Gallery/CP-9020259_01.webp",
+    "page": "https://www.corsair.com/us/en/p/psu/cp-9020259-na/hx1500i-fully-modular-ultra-low-noise-platinum-atx-1500-watt-pc-power-supply-cp-9020259-na"
+  },
+  "PSU-COR-RM850E": {
+    "file": "/products/psu-cor-rm850e.webp",
+    "width": 1100,
+    "height": 1100,
+    "bg": "#ffffff",
+    "source": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/v1680126575/products/Power-Supply-Units/base-rme-series-2023-psu-config/Gallery/850W/RM850e_01.webp",
+    "page": "https://www.corsair.com/us/en/p/psu/cp-9020263-na/rm850e-fully-modular-low-noise-atx-power-supply-cp-9020263-na"
+  },
+  "PSU-DC-PK550D": {
+    "file": "/products/psu-dc-pk550d.webp",
+    "width": 800,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/PowerSupplyUnits/PK550D/Gallery/800X800/01.jpg",
+    "page": "https://www.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PK550D-80-PLUS-Bronze-Power-Supply/2022/15621.shtml/"
+  },
+  "PSU-DC-PX1000G": {
+    "file": "/products/psu-dc-px1000g.webp",
+    "width": 800,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/PowerSupplyUnits/PX1000G/Gallery/800X800/01.jpg",
+    "page": "https://www.deepcool.com/products/PowerSupplyUnits/powersupplyunits/PX1000G-ATX-3.0-80-Plus-Gold-Power-Supply/2023/16912.shtml"
+  },
+  "RAM-COR-LPX-16-D4": {
+    "file": "/products/ram-cor-lpx-16-d4.webp",
+    "width": 1100,
+    "height": 1100,
+    "bg": "#ffffff",
+    "source": "https://res.cloudinary.com/corsair-pwa/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Memory/CMK16GX4M2B3200C16/Gallery/VENG_LPX_BLK_00.png",
+    "page": "https://www.corsair.com/us/en/p/memory/cmk16gx4m2b3200c16/vengeancea-lpx-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-memory-kit-black-cmk16gx4m2b3200c16"
+  },
+  "RAM-COR-V-96-D5": {
+    "file": "/products/ram-cor-v-96-d5.webp",
+    "width": 1100,
+    "height": 1100,
+    "bg": "#ffffff",
+    "source": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Memory/vengeance-ddr5-blk-config/Vengeance-DDR5-2UP-BLACK_01.png",
+    "page": "https://www.corsair.com/us/en/p/memory/cmk96gx5m2b6000c30/vengeance-96gb-2x48gb-ddr5-dram-6000mt-s-cl30-memory-kit-black-cmk96gx5m2b6000c30"
+  },
+  "RAM-COR-VRGB-32-D5": {
+    "file": "/products/ram-cor-vrgb-32-d5.webp",
+    "width": 1100,
+    "height": 1100,
+    "bg": "#ffffff",
+    "source": "https://res.cloudinary.com/corsair-pwa/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Memory/vengeance-rgb-ddr5-blk-config/Gallery/2up/VENGEANCE_RGB_DDR5_BLK_01.webp",
+    "page": "https://www.corsair.com/us/en/p/memory/cmh32gx5m2b6000c30/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mhz-c30-memory-kit-black-cmh32gx5m2b6000c30"
+  },
+  "RAM-GS-RV-32-D4": {
+    "file": "/products/ram-gs-rv-32-d4.webp",
+    "width": 334,
+    "height": 220,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/41WzknHS4tL._AC_SL1500_.jpg",
+    "page": "https://www.amazon.com/G-Skill-PC4-28800-3600MHz-Ripjaws-16-19-19-39/dp/B07Z45XB3G"
+  },
+  "RAM-GS-TZ5-64-D5": {
+    "file": "/products/ram-gs-tz5-64-d5.webp",
+    "width": 498,
+    "height": 374,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/410TWmn-GtL._AC_SL1500_.jpg",
+    "page": "https://www.amazon.com/G-Skill-Trident-288-Pin-CL32-39-39-102-F5-6400J3239G32GX2-TZ5RK/dp/B0BJ7X9P1W"
+  },
+  "RAM-KF-BEAST-16-D5": {
+    "file": "/products/ram-kf-beast-16-d5.webp",
+    "width": 491,
+    "height": 292,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/415kUsl0MoL._AC_SL1500_.jpg",
+    "page": "https://www.amazon.com/dp/B0BRTJSN2S"
+  },
+  "RAM-KF-BEAST-64-D5": {
+    "file": "/products/ram-kf-beast-64-d5.webp",
+    "width": 491,
+    "height": 291,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/31MA96MIbpL._AC_SL1500_.jpg",
+    "page": "https://www.amazon.com/Kingston-Technology-5600MT-Computer-KF556C40BBK2-64/dp/B09T8TH7PG"
+  },
+  "RAM-XPG-LANCER-32-D5": {
+    "file": "/products/ram-xpg-lancer-32-d5.webp",
+    "width": 438,
+    "height": 326,
+    "bg": "#ffffff",
+    "source": "https://m.media-amazon.com/images/I/41n7ZsIAlZL._AC_SL1500_.jpg",
+    "page": "https://www.amazon.com/XPG-6000MHz-288-Pins-Heatsink-AX5U6000C3016G-DCLARBK/dp/B0C5494K5D"
+  },
+  "SPK-CR-PEBV3": {
+    "file": "/products/spk-cr-pebv3.webp",
+    "width": 1200,
+    "height": 1200,
+    "bg": "#ffffff",
+    "source": "https://img.creative.com/images/products/large/pdt_23507.png",
+    "page": "https://us.creative.com/p/speakers/creative-pebble-v3"
+  },
+  "SPK-ED-R1280DB": {
+    "file": "/products/spk-ed-r1280db.webp",
+    "width": 800,
+    "height": 800,
+    "bg": "#ffffff",
+    "source": "https://new-edifier-us-oss.edifier.com/images/20221122/15e177b430841ccdb0bbf8d498991ae2.png",
+    "page": "https://www.edifier.com/us/p/bookshelf-speakers/r1280db"
+  },
+  "SPK-LOGI-Z313": {
+    "file": "/products/spk-logi-z313.webp",
+    "width": 544,
+    "height": 466,
+    "bg": "#ffffff",
+    "source": "https://resource.logitech.com/w_544,h_466,ar_7:6,c_pad,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/speakers/computer-speakers/z313/gallery/z313-gallery-1.png",
+    "page": "https://www.logitech.com/en-us/shop/p/z313-speaker-system-subwoofer"
+  },
+  "SSD-CR-T705-2T": {
+    "file": "/products/ssd-cr-t705-2t.webp",
+    "width": 1024,
+    "height": 393,
+    "bg": "#a99fc8",
+    "source": "https://www.crucial.com/content/experience-fragments/crucial/en-us/pdp_content/overview/ssd/t705/t705/master/_jcr_content/root/container_1326097113/container_copy_copy_/container/crucialteaser.coreimg.png/1764688757199/1761285183378.png",
+    "page": "https://www.crucial.com/ssd/t705/ct2000t705ssd3"
+  },
+  "SSD-KS-NV3-2T": {
+    "file": "/products/ssd-ks-nv3-2t.webp",
+    "width": 640,
+    "height": 182,
+    "bg": "#a9cfe4",
+    "source": "https://c1.neweggimages.com/productimage/nb640/20-242-903-02.jpg",
+    "page": "https://www.newegg.com/kingston-2tb-snv3s/p/N82E16820242903"
+  },
+  "SSD-SS-990EP-1T": {
+    "file": "/products/ssd-ss-990ep-1t.webp",
+    "width": 640,
+    "height": 333,
+    "bg": "#ffffff",
+    "source": "https://c1.neweggimages.com/productimage/nb640/20-147-899-10.jpg",
+    "page": "https://www.newegg.com/samsung-1tb-990-evo-plus-nvme-2-0/p/N82E16820147899"
+  },
+  "SSD-SS-990P-2T": {
+    "file": "/products/ssd-ss-990p-2t.webp",
+    "width": 640,
+    "height": 179,
+    "bg": "#545550",
+    "source": "https://c1.neweggimages.com/productimage/nb640/20-147-861-01.jpg",
+    "page": "https://www.newegg.com/samsung-2tb-990-pro-nvme-2-0/p/N82E16820147861"
+  },
+  "SSD-WD-SN580-1T": {
+    "file": "/products/ssd-wd-sn580-1t.webp",
+    "width": 640,
+    "height": 178,
+    "bg": "#d7d9d6",
+    "source": "https://c1.neweggimages.com/productimage/nb640/20-250-254-01.jpg",
+    "page": "https://www.newegg.com/western-digital-1tb-wd-blue-sn580-nvme-1-4/p/N82E16820250254"
+  },
+  "SSD-WD-SN850X-4T": {
+    "file": "/products/ssd-wd-sn850x-4t.webp",
+    "width": 640,
+    "height": 177,
+    "bg": "#541d1e",
+    "source": "https://c1.neweggimages.com/productimage/nb640/20-250-244-16.jpg",
+    "page": "https://www.newegg.com/western-digital-4tb-black-sn850x-nvme/p/N82E16820250244"
+  },
+  "SW-M365-PERS": {
+    "file": "/products/sw-m365-pers.webp",
+    "width": 1200,
+    "height": 900,
+    "bg": "#ffffff",
+    "source": "https://webobjects2.cdw.com/is/image/CDW/7740931",
+    "page": "https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bj"
+  },
+  "SW-QH-TS": {
+    "file": "/products/sw-qh-ts.webp",
+    "width": 265,
+    "height": 265,
+    "bg": "#ffffff",
+    "source": "https://www.quickheal.co.in/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/t/o/total-security-image_1.png",
+    "page": "https://www.quickheal.co.in/quick-heal-total-security/"
+  },
+  "TAB-LEN-M11": {
+    "file": "/products/tab-len-m11.webp",
+    "width": 640,
+    "height": 640,
+    "bg": "#fefefe",
+    "source": "https://c1.neweggimages.com/productimage/nb640/A8X5S24080811UN7VCC.jpg",
+    "page": "https://www.lenovo.com/us/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-m11-11-inch-mtk/len103l0022"
+  },
+  "UPS-APC-SRV2K": {
+    "file": "/products/ups-apc-srv2k.webp",
+    "width": 1000,
+    "height": 1000,
+    "bg": "#ffffff",
+    "source": "https://www.tradeinn.com/f/13736/137369151/apc-srv2ki-easy-ups.webp",
+    "page": "https://www.tradeinn.com/techinn/en/apc-srv2ki-easy-ups/137369151/p"
+  },
+  "MB-GB-H610M-S2H": {
+    "file": "/products/mb-gb-h610m-s2h.webp",
+    "width": 1200,
+    "height": 630,
+    "bg": "#ffffff",
+    "source": "https://www.bhphotovideo.com/images/fb/gigabyte_h610m_s2h_ddr4_intel_1756405.jpg",
+    "page": "https://www.gigabyte.com/Motherboard/H610M-S2H-DDR4-rev-10"
+  },
+  "MON-ACER-VG240YE": {
+    "file": "/products/mon-acer-vg240ye.webp",
+    "width": 1200,
+    "height": 630,
+    "bg": "#ffffff",
+    "source": "https://www.bhphotovideo.com/images/fb/acer_um_qv0aa_002_vg240y_23_8_ips_1ms_1415649.jpg",
+    "page": "https://www.acer.com/us-en/monitors/gaming/nitro-vg0/pdp/UM.QV0AA.E01"
+  },
+  "SSD-CR-P3P-500": {
+    "file": "/products/ssd-cr-p3p-500.webp",
+    "width": 1000,
+    "height": 525,
+    "bg": "#ffffff",
+    "source": "https://www.bhphotovideo.com/images/fb/crucial_ct500p3pssd8_500gb_p3_plus_nvme_1710660.jpg",
+    "page": "https://www.bhphotovideo.com/c/product/1710660-REG/crucial_ct500p3pssd8_500gb_p3_plus_nvme.html"
   }
 }
